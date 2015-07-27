@@ -1,7 +1,7 @@
 Awesome Nextflow
 =================
 
-A curated list of Nextflow pipelines inspired by other [awesome-* list](https://github.com/bayandin/awesome-awesomeness).
+A curated list of Nextflow pipelines inspired by other [awesome-*](https://github.com/bayandin/awesome-awesomeness) lists.
 
 Example pipelines
 -------------------

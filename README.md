@@ -14,7 +14,6 @@ Featured pipelines
 * [cbcrg/piper-nf](https://github.com/cbcrg/piper-nf) - A RNA mapping pipeline 
 * [guigolab/grape-nf](https://github.com/guigolab/grape-nf) - An automated RNA-seq pipeline.
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
-* [nmdp-bioinformatics/flow-validation](https://github.com/nmdp-bioinformatics/flow-validation) 
 * [sanger-pathogens/annot-nf](https://github.com/sanger-pathogens/annot-nf) - Eukaryotic genome annotation pipeline implemented in Nextflow
 
 Other pipelines
@@ -26,8 +25,10 @@ Other pipelines
 * [cbcrg/benchfam](https://github.com/cbcrg/benchfam)
 * [cbcrg/grape-nf](https://github.com/cbcrg/grape-nf) - Yet another RNA-Seq pipeline (deprecated)
 * [charite/ngspipeline](https://github.com/charite/ngspipeline)
+* [heuermh/bdg-nextflow](https://github.com/heuermh/bdg-nextflow)
 * [robsyme/nextflow-annotate](https://github.com/robsyme/nextflow-annotate) - Fungal genome annotation workflow
 * [robsyme/nextflow-mapping](https://github.com/robsyme/nextflow-mapping)
 * [robsyme/workflows-proteogenomics](https://github.com/robsyme/workflows-proteogenomics) - Versioned, shareable and replicable workflows for proteogenomics.
 * [meissnert/nextflow-gtool](https://github.com/meissnert/nextflow-gtool)
+* [nmdp-bioinformatics/flow-validation](https://github.com/nmdp-bioinformatics/flow-validation) 
 * [skner/iasi-pipe](https://github.com/skner/iasi-pipe)

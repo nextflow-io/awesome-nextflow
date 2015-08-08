@@ -32,3 +32,8 @@ Other pipelines
 * [meissnert/nextflow-gtool](https://github.com/meissnert/nextflow-gtool)
 * [nmdp-bioinformatics/flow-validation](https://github.com/nmdp-bioinformatics/flow-validation) 
 * [skner/iasi-pipe](https://github.com/skner/iasi-pipe)
+
+Other projects 
+---------------
+
+* [Nextflow Workbench](http://campagnelab.org/software/nextflow-workbench/) - Workbench that make it easier to write data analysis workflows with Nextflow

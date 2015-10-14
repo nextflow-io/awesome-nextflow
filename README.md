@@ -15,7 +15,8 @@ Featured pipelines
 * [guigolab/grape-nf](https://github.com/guigolab/grape-nf) - An automated RNA-seq pipeline.
 * [mfoll/robust-regression-caller](https://github.com/mfoll/robust-regression-caller) - Robust regression multi-sample variant caller
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
-* [sanger-pathogens/annot-nf](https://github.com/sanger-pathogens/annot-nf) - Eukaryotic genome annotation pipeline implemented in Nextflow
+* [sanger-pathogens/annot-nf](https://github.com/sanger-pathogens/annot-nf) - Eukaryotic genome annotation pipeline.
+* [IARCbioinfo/needlestack](https://github.com/IARCbioinfo/needlestack) - Multi-sample somatic variant caller.
 
 Other pipelines
 ------------------

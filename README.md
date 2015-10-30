@@ -12,6 +12,7 @@ Example pipelines
 Featured pipelines
 -------------------
 * [iarcbioinfo/needlestack](https://github.com/IARCbioinfo/needlestack) - Multi-sample somatic variant caller.
+* [cbcrg/piper-nf](https://github.com/cbcrg/piper-nf) - RNA mapping pipeline.
 * [guigolab/grape-nf](https://github.com/guigolab/grape-nf) - An automated RNA-seq pipeline.
 * [metagenomics/MeRaGENE](https://github.com/metagenomics/MeRaGENE) - Metagenomics rapid gene identification pipeline.
 * [mfoll/robust-regression-caller](https://github.com/mfoll/robust-regression-caller) - Robust regression multi-sample variant caller

@@ -17,7 +17,7 @@ Featured pipelines
 * [metagenomics/MeRaGENE](https://github.com/metagenomics/MeRaGENE) - Metagenomics rapid gene identification pipeline.
 * [mfoll/robust-regression-caller](https://github.com/mfoll/robust-regression-caller) - Robust regression multi-sample variant caller
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
-* [sanger-pathogens/annot-nf](https://github.com/sanger-pathogens/annot-nf) - Eukaryotic genome annotation pipeline.
+* [sanger-pathogens/companion](https://github.com/sanger-pathogens/companion) - Eukaryotic genome annotation pipeline.
 
 Other pipelines
 ------------------
@@ -29,6 +29,7 @@ Other pipelines
 * [cbcrg/grape-nf](https://github.com/cbcrg/grape-nf) - Yet another RNA-Seq pipeline (deprecated)
 * [charite/ngspipeline](https://github.com/charite/ngspipeline)
 * [heuermh/bdg-nextflow](https://github.com/heuermh/bdg-nextflow) - Transform BAM files found recursively in a given directory to [ADAM](https://github.com/bigdatagenomics/adam) format.
+* [insilicodb/pipeline-kallisto](https://github.com/InSilicoDB/pipeline-kallisto/)
 * [robsyme/nextflow-annotate](https://github.com/robsyme/nextflow-annotate) - Fungal genome annotation workflow
 * [robsyme/nextflow-mapping](https://github.com/robsyme/nextflow-mapping)
 * [robsyme/workflows-proteogenomics](https://github.com/robsyme/workflows-proteogenomics) - Versioned, shareable and replicable workflows for proteogenomics.

@@ -26,6 +26,7 @@ Other pipelines
 * [averasd/nextflow-rnastar](https://github.com/AveraSD/nextflow-rnastar)
 * [bihealth/ngs_pipelines](https://github.com/bihealth/ngs_pipelines)
 * [cbcrg/benchfam](https://github.com/cbcrg/benchfam)
+* [cbcrg/kallisto-nf](https://github.com/cbcrg/kallisto-nf)
 * [cbcrg/grape-nf](https://github.com/cbcrg/grape-nf) - Yet another RNA-Seq pipeline (deprecated)
 * [charite/ngspipeline](https://github.com/charite/ngspipeline)
 * [heuermh/bdg-nextflow](https://github.com/heuermh/bdg-nextflow) - Transform BAM files found recursively in a given directory to [ADAM](https://github.com/bigdatagenomics/adam) format.

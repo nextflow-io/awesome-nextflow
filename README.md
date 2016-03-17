@@ -29,7 +29,11 @@ Other pipelines
 * [cbcrg/kallisto-nf](https://github.com/cbcrg/kallisto-nf)
 * [cbcrg/grape-nf](https://github.com/cbcrg/grape-nf) - Yet another RNA-Seq pipeline (deprecated)
 * [charite/ngspipeline](https://github.com/charite/ngspipeline)
+* [NGI-Nextflow](https://github.com/ewels/NGI-Nextflow)
 * [heuermh/bdg-nextflow](https://github.com/heuermh/bdg-nextflow) - Transform BAM files found recursively in a given directory to [ADAM](https://github.com/bigdatagenomics/adam) format.
+* [IARCbioinfo/bam_realignment-nf](https://github.com/IARCbioinfo/bam_realignment-nf)
+* [IARCbioinfo/GVCF_pipeline-nf](https://github.com/IARCbioinfo/GVCF_pipeline-nf)
+* [IARCbioinfo/mutect-nf](https://github.com/IARCbioinfo/mutect-nf)
 * [insilicodb/pipeline-kallisto](https://github.com/InSilicoDB/pipeline-kallisto/)
 * [robsyme/nextflow-annotate](https://github.com/robsyme/nextflow-annotate) - Fungal genome annotation workflow
 * [robsyme/nextflow-mapping](https://github.com/robsyme/nextflow-mapping)

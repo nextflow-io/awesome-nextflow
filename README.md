@@ -40,6 +40,7 @@ Other pipelines
 * [robsyme/workflows-proteogenomics](https://github.com/robsyme/workflows-proteogenomics) - Versioned, shareable and replicable workflows for proteogenomics.
 * [meissnert/nextflow-gtool](https://github.com/meissnert/nextflow-gtool)
 * [nmdp-bioinformatics/flow-validation](https://github.com/nmdp-bioinformatics/flow-validation) 
+* [nmdp-bioinformatics/flow-blast-hml](https://github.com/nmdp-bioinformatics/flow-blast-hml)
 * [skner/iasi-pipe](https://github.com/skner/iasi-pipe)
 
 Other projects 

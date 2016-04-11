@@ -36,6 +36,7 @@ Other pipelines
 * [IARCbioinfo/GVCF_pipeline-nf](https://github.com/IARCbioinfo/GVCF_pipeline-nf)
 * [IARCbioinfo/mutect-nf](https://github.com/IARCbioinfo/mutect-nf)
 * [insilicodb/pipeline-kallisto](https://github.com/InSilicoDB/pipeline-kallisto/)
+* [jdidion/rna-quick](https://github.com/jdidion/rna-quick) - Rapid analysis of gene and transcript quantification and differential expression.
 * [robsyme/nextflow-annotate](https://github.com/robsyme/nextflow-annotate) - Fungal genome annotation workflow
 * [robsyme/nextflow-mapping](https://github.com/robsyme/nextflow-mapping)
 * [robsyme/workflows-proteogenomics](https://github.com/robsyme/workflows-proteogenomics) - Versioned, shareable and replicable workflows for proteogenomics.

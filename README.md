@@ -14,7 +14,8 @@ Featured pipelines
 * [cbcrg/piper-nf](https://github.com/cbcrg/piper-nf) - RNA mapping pipeline.
 * [iarcbioinfo/needlestack](https://github.com/IARCbioinfo/needlestack) - Multi-sample somatic variant caller.
 * [JWCarlson/interflowscan](https://bitbucket.org/JWCarlson/interflowscan) - Implements the protein analysis components of InterProScan5 using Nextflow.
-* [guigolab/grape-nf](https://github.com/guigolab/grape-nf) - An automated RNA-seq pipeline.
+* [guigolab/chip-nf](https://github.com/guigolab/chip-nf) - Automated ChIP-seq pipeline.
+* [guigolab/grape-nf](https://github.com/guigolab/grape-nf) - Automated RNA-seq pipeline.
 * [metagenomics/MeRaGENE](https://github.com/metagenomics/MeRaGENE) - Metagenomics rapid gene identification pipeline.
 * [mfoll/robust-regression-caller](https://github.com/mfoll/robust-regression-caller) - Robust regression multi-sample variant caller
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.

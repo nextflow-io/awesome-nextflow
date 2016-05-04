@@ -55,3 +55,4 @@ Other projects
 * [Nextflow Toys](https://github.com/tdelhomme/nextflow_toys) - Scripts for efficiently dealing with Nextflow
 * [Nextflow Workbench](http://campagnelab.org/software/nextflow-workbench/) - Workbench that make it easier to write data analysis workflows with Nextflow
 * [Make to Nextflow](https://github.com/lindenb/xml-patch-make/wiki/Tabix) - Converts Makefile to Nextflow
+* [CIC Show-and-Tell](https://cdn.rawgit.com/robsyme/nextflow-intro/4615e5a/index.html) - Nice Nextflow presentation by [@robsyme](https://github.com/robsyme) 

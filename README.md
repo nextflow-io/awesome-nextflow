@@ -12,6 +12,7 @@ Example pipelines
 Featured pipelines
 -------------------
 * [cbcrg/piper-nf](https://github.com/cbcrg/piper-nf) - RNA mapping pipeline.
+* [cbcrg/shootstrap](https://github.com/cbcrg/shootstrap) - Reliability measure of inferred phylogenetic trees.
 * [iarcbioinfo/needlestack](https://github.com/IARCbioinfo/needlestack) - Multi-sample somatic variant caller.
 * [JWCarlson/interflowscan](https://bitbucket.org/JWCarlson/interflowscan) - Implements the protein analysis components of InterProScan5 using Nextflow.
 * [guigolab/chip-nf](https://github.com/guigolab/chip-nf) - Automated ChIP-seq pipeline.

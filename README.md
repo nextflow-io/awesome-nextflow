@@ -12,6 +12,7 @@ Example pipelines
 Featured pipelines
 -------------------
 * [cbcrg/piper-nf](https://github.com/cbcrg/piper-nf) - RNA mapping pipeline.
+* [cbcrg/kallisto-nf](https://github.com/cbcrg/kallisto-nf) - Nextflow implementation of Kallisto & Sleuth RNA-Seq Tools.
 * [cbcrg/shootstrap](https://github.com/cbcrg/shootstrap) - Reliability measure of inferred phylogenetic trees.
 * [iarcbioinfo/needlestack](https://github.com/IARCbioinfo/needlestack) - Multi-sample somatic variant caller.
 * [JWCarlson/interflowscan](https://bitbucket.org/JWCarlson/interflowscan) - Implements the protein analysis components of InterProScan5 using Nextflow.
@@ -31,8 +32,8 @@ Other pipelines
 * [averasd/nextflow-rnastar](https://github.com/AveraSD/nextflow-rnastar)
 * [bihealth/ngs_pipelines](https://github.com/bihealth/ngs_pipelines)
 * [cbcrg/benchfam](https://github.com/cbcrg/benchfam)
-* [cbcrg/kallisto-nf](https://github.com/cbcrg/kallisto-nf)
 * [cbcrg/grape-nf](https://github.com/cbcrg/grape-nf) - Yet another RNA-Seq pipeline (deprecated)
+* [cerebis/meta-sweeper](https://github.com/cerebis/meta-sweeper) - Parametric sweep of simulated microbial communities and metagenomic sequencing.
 * [charite/ngspipeline](https://github.com/charite/ngspipeline)
 * [ewels/NGI-Nextflow](https://github.com/ewels/NGI-Nextflow)
 * [heuermh/bdg-nextflow](https://github.com/heuermh/bdg-nextflow) - Transform BAM files found recursively in a given directory to [ADAM](https://github.com/bigdatagenomics/adam) format.

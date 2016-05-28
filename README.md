@@ -23,6 +23,7 @@ Featured pipelines
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
 * [sanger-pathogens/companion](https://github.com/sanger-pathogens/companion) - Eukaryotic genome annotation pipeline.
 * [skptic/concTree](https://github.com/skptic/concTree) - Creates consensus trees using alignment uncertainty from many MSAs.
+* [skptic/lncRNA-Annotation-nf](https://github.com/skptic/lncRNA-Annotation-nf) - lncRNA Annotation Pipeline based on STAR, Cufflinks and FEELnc.
 * [skptic/vast-tools-nf](https://github.com/skptic/vast-tools-nf) - Nextflow Implementation of VAST-TOOLS for profiling alternative splicing events in RNA-Seq data.
 
 Other pipelines

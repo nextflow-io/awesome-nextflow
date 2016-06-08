@@ -22,6 +22,8 @@ Featured pipelines
 * [mfoll/robust-regression-caller](https://github.com/mfoll/robust-regression-caller) - Robust regression multi-sample variant caller
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
 * [sanger-pathogens/companion](https://github.com/sanger-pathogens/companion) - Eukaryotic genome annotation pipeline.
+* [SciLifeLab/NGI-MethylSeq](https://github.com/SciLifeLab/NGI-MethylSeq) - Methylation Best Practice analysis pipeline.
+* [SciLifeLab/NGI-RNAseq](https://github.com/SciLifeLab/NGI-RNAseq) - Nextflow Best Practice analysis pipeline.
 * [skptic/concTree](https://github.com/skptic/concTree) - Creates consensus trees using alignment uncertainty from many MSAs.
 * [skptic/lncRNA-Annotation-nf](https://github.com/skptic/lncRNA-Annotation-nf) - lncRNA Annotation Pipeline based on STAR, Cufflinks and FEELnc.
 * [skptic/vast-tools-nf](https://github.com/skptic/vast-tools-nf) - Nextflow Implementation of VAST-TOOLS for profiling alternative splicing events in RNA-Seq data.

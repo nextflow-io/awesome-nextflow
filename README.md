@@ -50,6 +50,8 @@ Other pipelines
 * [robsyme/nextflow-mapping](https://github.com/robsyme/nextflow-mapping)
 * [robsyme/workflows-proteogenomics](https://github.com/robsyme/workflows-proteogenomics) - Versioned, shareable and replicable workflows for proteogenomics.
 * [meissnert/nextflow-gtool](https://github.com/meissnert/nextflow-gtool)
+* [NationalGenomicsInfrastructure/icing](https://github.com/NationalGenomicsInfrastructure/icing) - HLA typing from OxfordNanopore reads.
+* [NBISweden/wgs-structvar](https://github.com/NBISweden/wgs-structvar) - Genome Sequenceing Structural Variation Pipelines.
 * [nmdp-bioinformatics/flow-validation](https://github.com/nmdp-bioinformatics/flow-validation) 
 * [nmdp-bioinformatics/flow-blast-hml](https://github.com/nmdp-bioinformatics/flow-blast-hml)
 * [skner/iasi-pipe](https://github.com/skner/iasi-pipe)

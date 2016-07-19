@@ -40,7 +40,10 @@ Other pipelines
 * [cerebis/meta-sweeper](https://github.com/cerebis/meta-sweeper) - Parametric sweep of simulated microbial communities and metagenomic sequencing.
 * [charite/ngspipeline](https://github.com/charite/ngspipeline)
 * [ewels/NGI-Nextflow](https://github.com/ewels/NGI-Nextflow)
+* [fredericlemoine/rna-pipeline](https://github.com/fredericlemoine/rna-pipeline)
+* [HadrienG/pipelines](https://github.com/HadrienG/pipelines)
 * [heuermh/bdg-nextflow](https://github.com/heuermh/bdg-nextflow) - Transform BAM files found recursively in a given directory to [ADAM](https://github.com/bigdatagenomics/adam) format.
+* [hmkim/workflow](https://github.com/hmkim/workflow/tree/master/nextflow)
 * [IARCbioinfo/bam_realignment-nf](https://github.com/IARCbioinfo/bam_realignment-nf)
 * [IARCbioinfo/GVCF_pipeline-nf](https://github.com/IARCbioinfo/GVCF_pipeline-nf)
 * [IARCbioinfo/mutect-nf](https://github.com/IARCbioinfo/mutect-nf)

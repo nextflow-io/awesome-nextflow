@@ -22,6 +22,7 @@ Featured pipelines
 * [mfoll/robust-regression-caller](https://github.com/mfoll/robust-regression-caller) - Robust regression multi-sample variant caller
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
 * [sanger-pathogens/companion](https://github.com/sanger-pathogens/companion) - Eukaryotic genome annotation pipeline.
+* [SciLifeLab/CAW](https://github.com/SciLifeLab/CAW) - Cancer Analysis Workflow prototype.
 * [SciLifeLab/NGI-MethylSeq](https://github.com/SciLifeLab/NGI-MethylSeq) - Methylation Best Practice analysis pipeline.
 * [SciLifeLab/NGI-RNAseq](https://github.com/SciLifeLab/NGI-RNAseq) - Nextflow Best Practice analysis pipeline.
 * [SciLifeLab/NGI-ChIPseq](https://github.com/SciLifeLab/NGI-ChIPseq) - ChIP-seq data analysis pipeline, Science for Life Laboratory in Stockholm.
@@ -53,6 +54,7 @@ Other pipelines
 * [InSilicoDB/pipeline-kallisto](https://github.com/InSilicoDB/pipeline-kallisto/)
 * [InSilicoDB/snp-imputation-nf](https://github.com/InSilicoDB/snp-imputation-nf)
 * [jdidion/rna-quick](https://github.com/jdidion/rna-quick) - Rapid analysis of gene and transcript quantification and differential expression.
+* [PlantandFoodResearch/VariantAnalysis](https://github.com/PlantandFoodResearch/VariantAnalysis) - Bioinformatic variant calling pipeline.
 * [robsyme/nextflow-annotate](https://github.com/robsyme/nextflow-annotate) - Fungal genome annotation workflow
 * [robsyme/nextflow-mapping](https://github.com/robsyme/nextflow-mapping)
 * [robsyme/workflows-proteogenomics](https://github.com/robsyme/workflows-proteogenomics) - Versioned, shareable and replicable workflows for proteogenomics.

@@ -27,6 +27,7 @@ Featured pipelines
 * [SciLifeLab/NGI-ChIPseq](https://github.com/SciLifeLab/NGI-ChIPseq) - ChIP-seq data analysis pipeline, Science for Life Laboratory in Stockholm.
 * [skptic/concTree](https://github.com/skptic/concTree) - Creates consensus trees using alignment uncertainty from many MSAs.
 * [skptic/lncRNA-Annotation-nf](https://github.com/skptic/lncRNA-Annotation-nf) - lncRNA Annotation Pipeline based on STAR, Cufflinks and FEELnc.
+* [skptic/paraMSA](https://github.com/skptic/paraMSA/) - Multiple sequence alignments for phylogenetic trees and bootstrap support values.
 * [skptic/vast-tools-nf](https://github.com/skptic/vast-tools-nf) - Nextflow Implementation of VAST-TOOLS for profiling alternative splicing events in RNA-Seq data.
 
 Other pipelines
@@ -41,6 +42,8 @@ Other pipelines
 * [charite/ngspipeline](https://github.com/charite/ngspipeline)
 * [ewels/NGI-Nextflow](https://github.com/ewels/NGI-Nextflow)
 * [fredericlemoine/rna-pipeline](https://github.com/fredericlemoine/rna-pipeline)
+* [h3abionet/chipimputation](https://github.com/h3abionet/chipimputation) - Imputation workflow developed as part of the H3 Africa BioNet Hackathon.
+* [h3abionet/h3agwas](https://github.com/h3abionet/h3agwas) - GWAS pipeline developed as part of the H3 Africa BioNet Hackathon.
 * [HadrienG/pipelines](https://github.com/HadrienG/pipelines)
 * [heuermh/bdg-nextflow](https://github.com/heuermh/bdg-nextflow) - Transform BAM files found recursively in a given directory to [ADAM](https://github.com/bigdatagenomics/adam) format.
 * [hmkim/workflow](https://github.com/hmkim/workflow/tree/master/nextflow)

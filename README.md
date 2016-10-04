@@ -30,6 +30,7 @@ Featured pipelines
 * [skptic/lncRNA-Annotation-nf](https://github.com/skptic/lncRNA-Annotation-nf) - lncRNA Annotation Pipeline based on STAR, Cufflinks and FEELnc.
 * [skptic/paraMSA](https://github.com/skptic/paraMSA/) - Multiple sequence alignments for phylogenetic trees and bootstrap support values.
 * [skptic/vast-tools-nf](https://github.com/skptic/vast-tools-nf) - Nextflow Implementation of VAST-TOOLS for profiling alternative splicing events in RNA-Seq data.
+* [skptic/tuxedo-nf](https://github.com/skptic/tuxedo-nf) - Nextflow implementation of the Tuxedo Suite of Tools.
 
 Other pipelines
 ------------------

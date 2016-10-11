@@ -34,6 +34,7 @@ Featured pipelines
 
 Other pipelines
 ------------------
+* [abreschi/ShortRNA-nf](https://github.com/abreschi/ShortRNA-nf) - Pipeline for processing shortRNA-seq data.
 * [andremrsantos/next-pipes-lghm](https://github.com/andremrsantos/next-pipes-lghm) - Eukaryotic genome annotation pipeline.
 * [averasd/nextflow-kallisto](https://github.com/AveraSD/nextflow-kallisto)
 * [averasd/nextflow-rnastar](https://github.com/AveraSD/nextflow-rnastar)
@@ -49,6 +50,7 @@ Other pipelines
 * [HadrienG/pipelines](https://github.com/HadrienG/pipelines)
 * [heuermh/bdg-nextflow](https://github.com/heuermh/bdg-nextflow) - Transform BAM files found recursively in a given directory to [ADAM](https://github.com/bigdatagenomics/adam) format.
 * [hmkim/workflow](https://github.com/hmkim/workflow/tree/master/nextflow)
+* [holtgrewe/ngs_pipelines](https://github.com/holtgrewe/ngs_pipelines) - Nextflow-based pipelines for typical NGS processing tasks.
 * [IARCbioinfo/bam_realignment-nf](https://github.com/IARCbioinfo/bam_realignment-nf)
 * [IARCbioinfo/GVCF_pipeline-nf](https://github.com/IARCbioinfo/GVCF_pipeline-nf)
 * [IARCbioinfo/mutect-nf](https://github.com/IARCbioinfo/mutect-nf)

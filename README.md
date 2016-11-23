@@ -58,6 +58,8 @@ Other pipelines
 * [InSilicoDB/pipeline-kallisto](https://github.com/InSilicoDB/pipeline-kallisto/)
 * [InSilicoDB/snp-imputation-nf](https://github.com/InSilicoDB/snp-imputation-nf)
 * [jdidion/rna-quick](https://github.com/jdidion/rna-quick) - Rapid analysis of gene and transcript quantification and differential expression.
+* [pbelmann/sra-download](https://github.com/pbelmann/sra-download)
+* [phelelani/filtering-pipeline](https://github.com/phelelani/filtering-pipeline) - Assembly pipeline for exogenous reads filtered from human RNA-seq data.
 * [PlantandFoodResearch/VariantAnalysis](https://github.com/PlantandFoodResearch/VariantAnalysis) - Bioinformatic variant calling pipeline.
 * [robsyme/nextflow-annotate](https://github.com/robsyme/nextflow-annotate) - Fungal genome annotation workflow
 * [robsyme/nextflow-mapping](https://github.com/robsyme/nextflow-mapping)

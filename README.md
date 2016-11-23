@@ -53,6 +53,7 @@ Other pipelines
 * [holtgrewe/ngs_pipelines](https://github.com/holtgrewe/ngs_pipelines) - Nextflow-based pipelines for typical NGS processing tasks.
 * [IARCbioinfo/bam_realignment-nf](https://github.com/IARCbioinfo/bam_realignment-nf)
 * [IARCbioinfo/GVCF_pipeline-nf](https://github.com/IARCbioinfo/GVCF_pipeline-nf)
+* [IARCbioinfo/mpileup-nf](https://github.com/IARCbioinfo/mpileup-nf) - Coverage computation with samtools mpileup.
 * [IARCbioinfo/mutect-nf](https://github.com/IARCbioinfo/mutect-nf)
 * [InSilicoDB/pipeline-kallisto](https://github.com/InSilicoDB/pipeline-kallisto/)
 * [InSilicoDB/snp-imputation-nf](https://github.com/InSilicoDB/snp-imputation-nf)

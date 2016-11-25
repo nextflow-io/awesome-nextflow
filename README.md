@@ -23,9 +23,10 @@ Featured pipelines
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
 * [sanger-pathogens/companion](https://github.com/sanger-pathogens/companion) - Eukaryotic genome annotation pipeline.
 * [SciLifeLab/CAW](https://github.com/SciLifeLab/CAW) - Cancer Analysis Workflow prototype.
-* [SciLifeLab/NGI-MethylSeq](https://github.com/SciLifeLab/NGI-MethylSeq) - Methylation Best Practice analysis pipeline.
-* [SciLifeLab/NGI-RNAseq](https://github.com/SciLifeLab/NGI-RNAseq) - Nextflow Best Practice analysis pipeline.
-* [SciLifeLab/NGI-ChIPseq](https://github.com/SciLifeLab/NGI-ChIPseq) - ChIP-seq data analysis pipeline, Science for Life Laboratory in Stockholm.
+* [SciLifeLab/NGI-RNAseq](https://github.com/SciLifeLab/NGI-RNAseq) - SciLifeLab NGI RNA-seq analysis pipeline.
+* [SciLifeLab/NGI-smRNAseq](https://github.com/SciLifeLab/NGI-smRNAseq) - SciLifeLab NGI small RNA-seq analysis pipeline.
+* [SciLifeLab/NGI-MethylSeq](https://github.com/SciLifeLab/NGI-MethylSeq) - SciLifeLab NGI Methylation (Bisulfite-Seq) analysis pipeline.
+* [SciLifeLab/NGI-ChIPseq](https://github.com/SciLifeLab/NGI-ChIPseq) - SciLifeLab NGI RNA-seq ChIP-seq analysis pipeline.
 * [skptic/concTree](https://github.com/skptic/concTree) - Creates consensus trees using alignment uncertainty from many MSAs.
 * [skptic/lncRNA-Annotation-nf](https://github.com/skptic/lncRNA-Annotation-nf) - lncRNA Annotation Pipeline based on STAR, Cufflinks and FEELnc.
 * [skptic/paraMSA](https://github.com/skptic/paraMSA/) - Multiple sequence alignments for phylogenetic trees and bootstrap support values.
@@ -43,7 +44,6 @@ Other pipelines
 * [cbcrg/grape-nf](https://github.com/cbcrg/grape-nf) - Yet another RNA-Seq pipeline (deprecated)
 * [cerebis/meta-sweeper](https://github.com/cerebis/meta-sweeper) - Parametric sweep of simulated microbial communities and metagenomic sequencing.
 * [charite/ngspipeline](https://github.com/charite/ngspipeline)
-* [ewels/NGI-Nextflow](https://github.com/ewels/NGI-Nextflow)
 * [fredericlemoine/rna-pipeline](https://github.com/fredericlemoine/rna-pipeline)
 * [h3abionet/chipimputation](https://github.com/h3abionet/chipimputation) - Imputation workflow developed as part of the H3 Africa BioNet Hackathon.
 * [h3abionet/h3agwas](https://github.com/h3abionet/h3agwas) - GWAS pipeline developed as part of the H3 Africa BioNet Hackathon.

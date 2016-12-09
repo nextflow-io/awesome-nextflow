@@ -44,6 +44,7 @@ Other pipelines
 * [cbcrg/grape-nf](https://github.com/cbcrg/grape-nf) - Yet another RNA-Seq pipeline (deprecated)
 * [cerebis/meta-sweeper](https://github.com/cerebis/meta-sweeper) - Parametric sweep of simulated microbial communities and metagenomic sequencing.
 * [charite/ngspipeline](https://github.com/charite/ngspipeline)
+* [chrisquince/DESMAN](https://github.com/chrisquince/DESMAN) - De novo Extraction of Strains from MetAgeNomes.
 * [fredericlemoine/rna-pipeline](https://github.com/fredericlemoine/rna-pipeline)
 * [h3abionet/chipimputation](https://github.com/h3abionet/chipimputation) - Imputation workflow developed as part of the H3 Africa BioNet Hackathon.
 * [h3abionet/h3agwas](https://github.com/h3abionet/h3agwas) - GWAS pipeline developed as part of the H3 Africa BioNet Hackathon.

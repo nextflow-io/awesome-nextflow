@@ -53,6 +53,7 @@ Other pipelines
 * [hmkim/workflow](https://github.com/hmkim/workflow/tree/master/nextflow)
 * [holtgrewe/ngs_pipelines](https://github.com/holtgrewe/ngs_pipelines) - Nextflow-based pipelines for typical NGS processing tasks.
 * [IARCbioinfo/bam_realignment-nf](https://github.com/IARCbioinfo/bam_realignment-nf)
+* [IARCbioinfo/bametrics-nf](https://github.com/IARCbioinfo/bametrics-nf) - Compute average metrics from reads that overlap a given set of positions.
 * [IARCbioinfo/GVCF_pipeline-nf](https://github.com/IARCbioinfo/GVCF_pipeline-nf)
 * [IARCbioinfo/mpileup-nf](https://github.com/IARCbioinfo/mpileup-nf) - Coverage computation with samtools mpileup.
 * [IARCbioinfo/mutect-nf](https://github.com/IARCbioinfo/mutect-nf)

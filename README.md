@@ -74,9 +74,13 @@ Other pipelines
 * [skner/iasi-pipe](https://github.com/skner/iasi-pipe)
 * [snewhouse/ngs_nextflow](https://github.com/snewhouse/ngs_nextflow) - Alignment, Variant Calling, GATK Best Practices
 
+Tutorials 
+----------
+[CRG course](https://github.com/nextflow-io/crg-course-nov16)
+[H3ABioNet course](https://github.com/shaze/nextflow-course)
+
 Other projects 
 ---------------
-
 * [Nextflow Toys](https://github.com/tdelhomme/nextflow_toys) - Scripts for efficiently dealing with Nextflow
 * [Nextflow Workbench](http://campagnelab.org/software/nextflow-workbench/) - Workbench that make it easier to write data analysis workflows with Nextflow
 * [Make to Nextflow](https://github.com/lindenb/xml-patch-make/wiki/Tabix) - Converts Makefile to Nextflow

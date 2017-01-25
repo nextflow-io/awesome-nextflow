@@ -76,8 +76,8 @@ Other pipelines
 
 Tutorials 
 ----------
-[CRG course](https://github.com/nextflow-io/crg-course-nov16)
-[H3ABioNet course](https://github.com/shaze/nextflow-course)
+* [CRG course](https://github.com/nextflow-io/crg-course-nov16)
+* [H3ABioNet course](https://github.com/shaze/nextflow-course)
 
 Other projects 
 ---------------

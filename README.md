@@ -20,6 +20,7 @@ Featured pipelines
 * [guigolab/chip-nf](https://github.com/guigolab/chip-nf) - Automated ChIP-seq pipeline.
 * [guigolab/grape-nf](https://github.com/guigolab/grape-nf) - Automated RNA-seq pipeline.
 * [metagenomics/MeRaGENE](https://github.com/metagenomics/MeRaGENE) - Metagenomics rapid gene identification pipeline.
+* [mirnylab/distiller-nf](https://github.com/mirnylab/distiller-nf) - Modular Hi-C mapping pipeline.
 * [mfoll/robust-regression-caller](https://github.com/mfoll/robust-regression-caller) - Robust regression multi-sample variant caller
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
 * [sanger-pathogens/companion](https://github.com/sanger-pathogens/companion) - Eukaryotic genome annotation pipeline.

@@ -19,6 +19,7 @@ Featured pipelines
 * [JWCarlson/interflowscan](https://bitbucket.org/JWCarlson/interflowscan) - Implements the protein analysis components of InterProScan5 using Nextflow.
 * [guigolab/chip-nf](https://github.com/guigolab/chip-nf) - Automated ChIP-seq pipeline.
 * [guigolab/grape-nf](https://github.com/guigolab/grape-nf) - Automated RNA-seq pipeline.
+* [guigolab/ipsa-nf](https://github.com/guigolab/ipsa-nf) - Integrative Pipeline for Splicing Analyses.
 * [jdidion/atropos](https://github.com/jdidion/atropos/tree/master/paper) - NGS read trimming tool that is specific, sensitive, and speedy.
 * [metagenomics/MeRaGENE](https://github.com/metagenomics/MeRaGENE) - Metagenomics rapid gene identification pipeline.
 * [mirnylab/distiller-nf](https://github.com/mirnylab/distiller-nf) - Modular Hi-C mapping pipeline.

@@ -11,6 +11,7 @@ Example pipelines
 
 Featured pipelines
 -------------------
+* [alesssia/YAMP](https://github.com/alesssia/YAMP) - Yet Another Metagenomic Pipeline.
 * [cbcrg/piper-nf](https://github.com/cbcrg/piper-nf) - RNA mapping pipeline.
 * [cbcrg/kallisto-nf](https://github.com/cbcrg/kallisto-nf) - Nextflow implementation of Kallisto & Sleuth RNA-Seq Tools.
 * [cbcrg/unistrap](https://github.com/cbcrg/unistrap) - Reliability measure of inferred phylogenetic trees.

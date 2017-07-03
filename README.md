@@ -17,7 +17,6 @@ Featured pipelines
 * [cbcrg/unistrap](https://github.com/cbcrg/unistrap) - Reliability measure of inferred phylogenetic trees.
 * [CRG-CNAG/CalliNGS-NF](https://github.com/CRG-CNAG/CalliNGS-NF) - Variant Calling Analysis with RNA-Seq data based on GATK best practices.
 * [iarcbioinfo/needlestack](https://github.com/IARCbioinfo/needlestack) - Multi-sample somatic variant caller.
-* [JWCarlson/interflowscan](https://bitbucket.org/JWCarlson/interflowscan) - Implements the protein analysis components of InterProScan5 using Nextflow.
 * [guigolab/chip-nf](https://github.com/guigolab/chip-nf) - Automated ChIP-seq pipeline.
 * [guigolab/grape-nf](https://github.com/guigolab/grape-nf) - Automated RNA-seq pipeline.
 * [guigolab/ipsa-nf](https://github.com/guigolab/ipsa-nf) - Integrative Pipeline for Splicing Analyses.
@@ -66,6 +65,7 @@ Other pipelines
 * [InSilicoDB/snp-imputation-nf](https://github.com/InSilicoDB/snp-imputation-nf)
 * [jdidion/rna-quick](https://github.com/jdidion/rna-quick) - Rapid analysis of gene and transcript quantification and differential expression.
 * [joshua-d-campbell/nf-GATK_Exome_Preprocess](https://github.com/joshua-d-campbell/nf-GATK_Exome_Preprocess) - GATK best practice guide to preprocess whole exome sequencing (WES) data.
+* [JWCarlson/interflowscan](https://bitbucket.org/JWCarlson/interflowscan) - Implements the protein analysis components of InterProScan5 using Nextflow.
 * [pbelmann/sra-download](https://github.com/pbelmann/sra-download)
 * [phelelani/filtering-pipeline](https://github.com/phelelani/filtering-pipeline) - Assembly pipeline for exogenous reads filtered from human RNA-seq data.
 * [PlantandFoodResearch/VariantAnalysis](https://github.com/PlantandFoodResearch/VariantAnalysis) - Bioinformatic variant calling pipeline.

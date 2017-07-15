@@ -7,8 +7,8 @@ Example pipelines
 -------------------
 * [cbcrg/ampa-nf](https://github.com/cbcrg/ampa-nf) - Automated prediction of protein antimicrobial regions
 * [cbcrg/mta-nf](https://github.com/cbcrg/mta-nf) - A method for best alignment of evaluation trees
-* [nextflow-io/rnatoy](https://github.com/nextflow-io/rnatoy) - A basic RNA-Seq pipeline
-* [nextflow-io/rnaseq-nf](https://github.com/nextflow-io/rnaseq-nf) - A basic pipeline for quantification of RNA-Seq data using Salmon. 
+* [nextflow-io/rnatoy](https://github.com/nextflow-io/rnatoy) - A basic RNA-seq pipeline
+* [nextflow-io/rnaseq-nf](https://github.com/nextflow-io/rnaseq-nf) - A basic pipeline for quantification of RNA-seq data using Salmon. 
 
 Featured pipelines
 -------------------

@@ -86,6 +86,10 @@ Tutorials
 * [CRG course](https://github.com/nextflow-io/crg-course-nov16)
 * [H3ABioNet course](https://github.com/shaze/nextflow-course)
 
+Related lists 
+-------------
+* [IARC-nf](https://github.com/IARCbioinfo/IARC-nf) - List of [IARC](https://www.iarc.fr/) bioinformatics nextflow pipelines.
+
 Other projects 
 ---------------
 * [Nextflow Toys](https://github.com/tdelhomme/nextflow_toys) - Scripts for efficiently dealing with Nextflow

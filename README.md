@@ -79,7 +79,8 @@ Other pipelines
 * [nmdp-bioinformatics/flow-validation](https://github.com/nmdp-bioinformatics/flow-validation) 
 * [nmdp-bioinformatics/flow-blast-hml](https://github.com/nmdp-bioinformatics/flow-blast-hml)
 * [skner/iasi-pipe](https://github.com/skner/iasi-pipe)
-* [snewhouse/ngs_nextflow](https://github.com/snewhouse/ngs_nextflow) - Alignment, Variant Calling, GATK Best Practices
+* [snewhouse/ngs_nextflow](https://github.com/snewhouse/ngs_nextflow) - Alignment, Variant Calling, GATK Best Practices.
+* [wittelab/orchid](https://github.com/Wittelab/orchid) - Novel management, annotation, and machine learning framework for analyzing cancer mutations.
 
 Tutorials 
 ----------

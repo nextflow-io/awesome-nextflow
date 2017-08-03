@@ -90,9 +90,10 @@ Related lists
 -------------
 * [IARC-nf](https://github.com/IARCbioinfo/IARC-nf) - List of [IARC](https://www.iarc.fr/) bioinformatics nextflow pipelines.
 
-Other projects 
+Other links  
 ---------------
 * [Nextflow Toys](https://github.com/tdelhomme/nextflow_toys) - Scripts for efficiently dealing with Nextflow
 * [Nextflow Workbench](http://campagnelab.org/software/nextflow-workbench/) - Workbench that make it easier to write data analysis workflows with Nextflow
 * [Make to Nextflow](https://github.com/lindenb/xml-patch-make/wiki/Tabix) - Converts Makefile to Nextflow
 * [CIC Show-and-Tell](https://cdn.rawgit.com/robsyme/nextflow-intro/4615e5a/index.html) - Nice Nextflow presentation by [@robsyme](https://github.com/robsyme) 
+* [NGS workflow](https://jmazz.me/blog/NGS-Workflows) Excellent blog post comparing Make/Snakemake/Nextflow by Julian Mazzitelli

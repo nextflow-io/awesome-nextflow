@@ -28,6 +28,7 @@ Featured pipelines
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
 * [sanger-pathogens/companion](https://github.com/sanger-pathogens/companion) - Eukaryotic genome annotation pipeline.
 * [SciLifeLab/CAW](https://github.com/SciLifeLab/CAW) - Cancer Analysis Workflow prototype.
+* [SciLifeLab/NGI-ExoSeq](https://github.com/SciLifeLab/NGI-ExoSeq) - Exome Sequencing Best Practice analysis pipeline.
 * [SciLifeLab/NGI-RNAseq](https://github.com/SciLifeLab/NGI-RNAseq) - SciLifeLab NGI RNA-seq analysis pipeline.
 * [SciLifeLab/NGI-smRNAseq](https://github.com/SciLifeLab/NGI-smRNAseq) - SciLifeLab NGI small RNA-seq analysis pipeline.
 * [SciLifeLab/NGI-MethylSeq](https://github.com/SciLifeLab/NGI-MethylSeq) - SciLifeLab NGI Methylation (Bisulfite-Seq) analysis pipeline.

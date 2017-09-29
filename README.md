@@ -100,5 +100,5 @@ Other links
 * [Nextflow Toys](https://github.com/tdelhomme/nextflow_toys) - Scripts for efficiently dealing with Nextflow
 * [Nextflow Workbench](http://campagnelab.org/software/nextflow-workbench/) - Workbench that make it easier to write data analysis workflows with Nextflow
 * [Make to Nextflow](https://github.com/lindenb/xml-patch-make/wiki/Tabix) - Converts Makefile to Nextflow
-* [NCBI-Hackathons/SPeW](https://github.com/NCBI-Hackathons/SPeW) - A discussion comparting different workflow framework including Nextflow.
+* [NCBI-Hackathons/SPeW](https://github.com/NCBI-Hackathons/SPeW) - A discussion comparting different workflow frameworks including Nextflow.
 * [NGS workflow](https://jmazz.me/blog/NGS-Workflows) Excellent blog post comparing Make/Snakemake/Nextflow by Julian Mazzitelli

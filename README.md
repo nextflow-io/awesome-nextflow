@@ -24,7 +24,8 @@ Featured pipelines
 * [jdidion/atropos](https://github.com/jdidion/atropos/tree/master/paper) - NGS read trimming tool that is specific, sensitive, and speedy.
 * [metagenomics/MeRaGENE](https://github.com/metagenomics/MeRaGENE) - Metagenomics rapid gene identification pipeline.
 * [mirnylab/distiller-nf](https://github.com/mirnylab/distiller-nf) - Modular Hi-C mapping pipeline.
-* [mfoll/robust-regression-caller](https://github.com/mfoll/robust-regression-caller) - Robust regression multi-sample variant caller
+* [mfoll/robust-regression-caller](https://github.com/mfoll/robust-regression-caller) - Robust regression multi-sample variant caller.
+* [montilab/pipeliner](https://github.com/montilab/pipeliner) - Framework for the definition of sequencing data processing workflows.
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
 * [sanger-pathogens/companion](https://github.com/sanger-pathogens/companion) - Eukaryotic genome annotation pipeline.
 * [SciLifeLab/CAW](https://github.com/SciLifeLab/CAW) - Cancer Analysis Workflow prototype.

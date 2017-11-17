@@ -27,6 +27,7 @@ Featured pipelines
 * [mfoll/robust-regression-caller](https://github.com/mfoll/robust-regression-caller) - Robust regression multi-sample variant caller.
 * [montilab/pipeliner](https://github.com/montilab/pipeliner) - Framework for the definition of sequencing data processing workflows.
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
+* [robsyme/nf-repeatmasking](https://github.com/robsyme/nf-repeatmasking) - Workflow for automatic repeat detection, classification and masking.
 * [sanger-pathogens/companion](https://github.com/sanger-pathogens/companion) - Eukaryotic genome annotation pipeline.
 * [SciLifeLab/CAW](https://github.com/SciLifeLab/CAW) - Cancer Analysis Workflow prototype.
 * [SciLifeLab/NGI-ExoSeq](https://github.com/SciLifeLab/NGI-ExoSeq) - Exome Sequencing Best Practice analysis pipeline.
@@ -53,6 +54,7 @@ Other pipelines
 * [cerebis/meta-sweeper](https://github.com/cerebis/meta-sweeper) - Parametric sweep of simulated microbial communities and metagenomic sequencing.
 * [charite/ngspipeline](https://github.com/charite/ngspipeline)
 * [chrisquince/DESMAN](https://github.com/chrisquince/DESMAN) - De novo Extraction of Strains from MetAgeNomes.
+* [ODiogoSilva/innuca-nf](https://github.com/ODiogoSilva/innuca-nf) - A nextflow implementation of INNUENDO quality control of reads, de novo assembly and contigs quality assessment.
 * [fredericlemoine/rna-pipeline](https://github.com/fredericlemoine/rna-pipeline)
 * [h3abionet/chipimputation](https://github.com/h3abionet/chipimputation) - Imputation workflow developed as part of the H3 Africa BioNet Hackathon.
 * [h3abionet/h3agwas](https://github.com/h3abionet/h3agwas) - GWAS pipeline developed as part of the H3 Africa BioNet Hackathon.

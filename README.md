@@ -103,6 +103,7 @@ Other links
 * [Nextflow Hackathon '17](https://github.com/nextflow-io/hack17) - Projects repositorty of the Nextflow Hackathon held in Barcelona, Sept 2017 
 * [Nextflow Toys](https://github.com/tdelhomme/nextflow_toys) - Scripts for efficiently dealing with Nextflow
 * [Nextflow Workbench](http://campagnelab.org/software/nextflow-workbench/) - Workbench that make it easier to write data analysis workflows with Nextflow
+* [NF-Core/Cookiecutter](https://github.com/nf-core/cookiecutter) - Template for your own top-end Nextflow pipeline, customised using Cookiecutter.
 * [Make to Nextflow](https://github.com/lindenb/xml-patch-make/wiki/Tabix) - Converts Makefile to Nextflow
 * [NCBI-Hackathons/SPeW](https://github.com/NCBI-Hackathons/SPeW) - A discussion comparting different workflow frameworks including Nextflow.
 * [NGS workflow](https://jmazz.me/blog/NGS-Workflows) Excellent blog post comparing Make/Snakemake/Nextflow by Julian Mazzitelli

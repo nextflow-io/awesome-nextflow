@@ -96,6 +96,7 @@ Tutorials
 Related lists 
 -------------
 * [IARC-nf](https://github.com/IARCbioinfo/IARC-nf) - List of [IARC](https://www.iarc.fr/) bioinformatics nextflow pipelines.
+* [NF-Core](https://nf-core.github.io/) - A collection of high quality Nextflow pipelines.
 
 Other links  
 ---------------

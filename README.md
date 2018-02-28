@@ -41,6 +41,7 @@ Featured pipelines
 * [skptic/vast-tools-nf](https://github.com/skptic/vast-tools-nf) - Nextflow Implementation of VAST-TOOLS for profiling alternative splicing events in RNA-Seq data.
 * [skptic/tuxedo-nf](https://github.com/skptic/tuxedo-nf) - Nextflow implementation of the Tuxedo Suite of Tools.
 * [likelet/LncPipe](https://github.com/likelet/LncPipe) - A Nextflow-based pipeline for lncRNA discovery and comprehensive analysis from un processed RNA-seq data.
+* [ZuberLab/mageck-nf](https://github.com/ZuberLab/mageck-nf) - Statistical Analysis of multiplexed CRISPR / shRNA Screens using MAGeCK.
 
 Other pipelines
 ------------------

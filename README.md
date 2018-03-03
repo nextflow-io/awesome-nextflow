@@ -22,6 +22,7 @@ Featured pipelines
 * [guigolab/grape-nf](https://github.com/guigolab/grape-nf) - Automated RNA-seq pipeline.
 * [guigolab/ipsa-nf](https://github.com/guigolab/ipsa-nf) - Integrative Pipeline for Splicing Analyses.
 * [jdidion/atropos](https://github.com/jdidion/atropos/tree/master/paper) - NGS read trimming tool that is specific, sensitive, and speedy.
+* [likelet/LncPipe](https://github.com/likelet/LncPipe) - A Nextflow-based pipeline for lncRNA discovery and comprehensive analysis from un processed RNA-seq data.
 * [metagenomics/MeRaGENE](https://github.com/metagenomics/MeRaGENE) - Metagenomics rapid gene identification pipeline.
 * [mirnylab/distiller-nf](https://github.com/mirnylab/distiller-nf) - Modular Hi-C mapping pipeline.
 * [mfoll/robust-regression-caller](https://github.com/mfoll/robust-regression-caller) - Robust regression multi-sample variant caller.
@@ -40,7 +41,7 @@ Featured pipelines
 * [skptic/paraMSA](https://github.com/skptic/paraMSA/) - Multiple sequence alignments for phylogenetic trees and bootstrap support values.
 * [skptic/vast-tools-nf](https://github.com/skptic/vast-tools-nf) - Nextflow Implementation of VAST-TOOLS for profiling alternative splicing events in RNA-Seq data.
 * [skptic/tuxedo-nf](https://github.com/skptic/tuxedo-nf) - Nextflow implementation of the Tuxedo Suite of Tools.
-* [likelet/LncPipe](https://github.com/likelet/LncPipe) - A Nextflow-based pipeline for lncRNA discovery and comprehensive analysis from un processed RNA-seq data.
+* [tburk/smallRNA-meth](https://gitlab.com/tburk/smallRNA-meth) - [Analyzes smallRNA methylation data](https://www.nature.com/articles/nmeth.4610).
 * [ZuberLab/mageck-nf](https://github.com/ZuberLab/mageck-nf) - Statistical Analysis of multiplexed CRISPR / shRNA Screens using MAGeCK.
 
 Other pipelines

@@ -93,6 +93,8 @@ Other pipelines
 Tutorials 
 ----------
 * [CRG course](https://github.com/nextflow-io/crg-course-nov16)
+* [Nextflow demos](https://github.com/stevekm/nextflow-demos) - Example Nextflow pipelines and programming techniques
+ (by Stephen Kelly)
 * [Nextflow tutorial](https://github.com/nextflow-io/hack17-tutorial)
 * [H3ABioNet course](https://github.com/shaze/nextflow-course)
 

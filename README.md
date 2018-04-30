@@ -8,7 +8,7 @@ Example pipelines
 * [cbcrg/ampa-nf](https://github.com/cbcrg/ampa-nf) - Automated prediction of protein antimicrobial regions
 * [cbcrg/mta-nf](https://github.com/cbcrg/mta-nf) - A method for best alignment of evaluation trees
 * [nextflow-io/rnatoy](https://github.com/nextflow-io/rnatoy) - A basic RNA-seq pipeline
-* [nextflow-io/rnaseq-nf](https://github.com/nextflow-io/rnaseq-nf) - A basic pipeline for quantification of RNA-seq data using Salmon. 
+* [nextflow-io/rnaseq-nf](https://github.com/nextflow-io/rnaseq-nf) - A basic pipeline for quantification of RNA-seq data using Salmon.
 
 Featured pipelines
 -------------------
@@ -31,7 +31,7 @@ Featured pipelines
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
 * [robsyme/nf-repeatmasking](https://github.com/robsyme/nf-repeatmasking) - Workflow for automatic repeat detection, classification and masking.
 * [sanger-pathogens/companion](https://github.com/sanger-pathogens/companion) - Eukaryotic genome annotation pipeline.
-* [SciLifeLab/CAW](https://github.com/SciLifeLab/CAW) - Cancer Analysis Workflow prototype.
+* [SciLifeLab/Sarek](https://github.com/SciLifeLab/Sarek) - Detect germline or somatic variants from normal or tumour/normal WGS.
 * [SciLifeLab/NGI-ExoSeq](https://github.com/SciLifeLab/NGI-ExoSeq) - Exome Sequencing Best Practice analysis pipeline.
 * [SciLifeLab/NGI-RNAseq](https://github.com/SciLifeLab/NGI-RNAseq) - SciLifeLab NGI RNA-seq analysis pipeline.
 * [SciLifeLab/NGI-smRNAseq](https://github.com/SciLifeLab/NGI-smRNAseq) - SciLifeLab NGI small RNA-seq analysis pipeline.
@@ -84,13 +84,13 @@ Other pipelines
 * [meissnert/nextflow-gtool](https://github.com/meissnert/nextflow-gtool)
 * [NationalGenomicsInfrastructure/icing](https://github.com/NationalGenomicsInfrastructure/icing) - HLA typing from OxfordNanopore reads.
 * [NBISweden/wgs-structvar](https://github.com/NBISweden/wgs-structvar) - Genome Sequenceing Structural Variation Pipelines.
-* [nmdp-bioinformatics/flow-validation](https://github.com/nmdp-bioinformatics/flow-validation) 
+* [nmdp-bioinformatics/flow-validation](https://github.com/nmdp-bioinformatics/flow-validation)
 * [nmdp-bioinformatics/flow-blast-hml](https://github.com/nmdp-bioinformatics/flow-blast-hml)
 * [skner/iasi-pipe](https://github.com/skner/iasi-pipe)
 * [snewhouse/ngs_nextflow](https://github.com/snewhouse/ngs_nextflow) - Alignment, Variant Calling, GATK Best Practices.
 * [wittelab/orchid](https://github.com/Wittelab/orchid) - Novel management, annotation, and machine learning framework for analyzing cancer mutations.
 
-Tutorials 
+Tutorials
 ----------
 * [CRG course](https://github.com/nextflow-io/crg-course-nov16)
 * [Nextflow demos](https://github.com/stevekm/nextflow-demos) - Example Nextflow pipelines and programming techniques
@@ -98,15 +98,15 @@ Tutorials
 * [Nextflow tutorial](https://github.com/nextflow-io/hack17-tutorial)
 * [H3ABioNet course](https://github.com/shaze/nextflow-course)
 
-Related lists 
+Related lists
 -------------
 * [IARC-nf](https://github.com/IARCbioinfo/IARC-nf) - List of [IARC](https://www.iarc.fr/) bioinformatics nextflow pipelines.
 * [NF-Core](https://nf-core.github.io/) - A collection of high quality Nextflow pipelines.
 
 Other links  
 ---------------
-* [CIC Show-and-Tell](https://cdn.rawgit.com/robsyme/nextflow-intro/4615e5a/index.html) - Nice Nextflow presentation by [@robsyme](https://github.com/robsyme) 
-* [Nextflow Hackathon '17](https://github.com/nextflow-io/hack17) - Projects repositorty of the Nextflow Hackathon held in Barcelona, Sept 2017 
+* [CIC Show-and-Tell](https://cdn.rawgit.com/robsyme/nextflow-intro/4615e5a/index.html) - Nice Nextflow presentation by [@robsyme](https://github.com/robsyme)
+* [Nextflow Hackathon '17](https://github.com/nextflow-io/hack17) - Projects repositorty of the Nextflow Hackathon held in Barcelona, Sept 2017
 * [Nextflow Toys](https://github.com/tdelhomme/nextflow_toys) - Scripts for efficiently dealing with Nextflow
 * [Nextflow Workbench](http://campagnelab.org/software/nextflow-workbench/) - Workbench that make it easier to write data analysis workflows with Nextflow
 * [NF-Core/Cookiecutter](https://github.com/nf-core/cookiecutter) - Template for your own top-end Nextflow pipeline, customised using Cookiecutter.

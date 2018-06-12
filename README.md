@@ -98,14 +98,18 @@ Tutorials
 * [Nextflow tutorial](https://github.com/nextflow-io/hack17-tutorial)
 * [H3ABioNet course](https://github.com/shaze/nextflow-course)
 
-Related lists
+Pipelines collections
 -------------
 * [IARC-nf](https://github.com/IARCbioinfo/IARC-nf) - List of [IARC](https://www.iarc.fr/) bioinformatics nextflow pipelines.
 * [NF-Core](https://nf-core.github.io/) - A collection of high quality Nextflow pipelines.
 
+Presentations
+-------------
+* [](https://rsuchecki.github.io/reproducible/show.html#/) - Reproducbile and Reusable publication and analysis workflow by [bioinforad](https://twitter.com/bioinforad)
+* [CIC Show-and-Tell](https://cdn.rawgit.com/robsyme/nextflow-intro/4615e5a/index.html) - Nice Nextflow presentation by [@robsyme](https://github.com/robsyme)
+
 Other links  
 ---------------
-* [CIC Show-and-Tell](https://cdn.rawgit.com/robsyme/nextflow-intro/4615e5a/index.html) - Nice Nextflow presentation by [@robsyme](https://github.com/robsyme)
 * [Nextflow Hackathon '17](https://github.com/nextflow-io/hack17) - Projects repositorty of the Nextflow Hackathon held in Barcelona, Sept 2017
 * [Nextflow Toys](https://github.com/tdelhomme/nextflow_toys) - Scripts for efficiently dealing with Nextflow
 * [Nextflow Workbench](http://campagnelab.org/software/nextflow-workbench/) - Workbench that make it easier to write data analysis workflows with Nextflow

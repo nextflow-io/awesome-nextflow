@@ -105,7 +105,7 @@ Pipelines collections
 
 Presentations
 -------------
-* [](https://rsuchecki.github.io/reproducible/show.html#/) - Reproducbile and Reusable publication and analysis workflow by [bioinforad](https://twitter.com/bioinforad)
+* [rsuchecki.github.io](https://rsuchecki.github.io/reproducible/show.html#/) - Reproducbile and Reusable publication and analysis workflow by [bioinforad](https://twitter.com/bioinforad)
 * [CIC Show-and-Tell](https://cdn.rawgit.com/robsyme/nextflow-intro/4615e5a/index.html) - Nice Nextflow presentation by [@robsyme](https://github.com/robsyme)
 
 Other links  

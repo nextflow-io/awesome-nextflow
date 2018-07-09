@@ -28,6 +28,7 @@ Featured pipelines
 * [mirnylab/distiller-nf](https://github.com/mirnylab/distiller-nf) - Modular Hi-C mapping pipeline.
 * [mfoll/robust-regression-caller](https://github.com/mfoll/robust-regression-caller) - Robust regression multi-sample variant caller.
 * [montilab/pipeliner](https://github.com/montilab/pipeliner) - Framework for the definition of sequencing data processing workflows.
+* [NCBI-Hackathons/ATACFlow](https://github.com/NCBI-Hackathons/ATACFlow) - ATAC-seq pipeline wrapped in NextFlow.
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
 * [robsyme/nf-repeatmasking](https://github.com/robsyme/nf-repeatmasking) - Workflow for automatic repeat detection, classification and masking.
 * [sanger-pathogens/companion](https://github.com/sanger-pathogens/companion) - Eukaryotic genome annotation pipeline.

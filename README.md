@@ -33,11 +33,16 @@ Featured pipelines
 * [mirnylab/distiller-nf](https://github.com/mirnylab/distiller-nf) - Modular Hi-C mapping pipeline.
 * [montilab/pipeliner](https://github.com/montilab/pipeliner) - Framework for the definition of sequencing data processing workflows.
 * [NCBI-Hackathons/ATACFlow](https://github.com/NCBI-Hackathons/ATACFlow) - ATAC-seq pipeline wrapped in NextFlow.
-* [nf-core/chipseq](https://github.com/nf-core/chipseq) - RNA-seq ChIP-seq analysis pipeline.
-* [nf-core/exoseq](https://github.com/nf-core/exoseq) - Exome Sequencing Best Practice analysis pipeline.
-* [nf-core/methylseq](https://github.com/nf-core/methylseq) - Methylation (Bisulfite-Seq) analysis pipeline.
-* [nf-core/rnaseq](https://github.com/nf-core/rnaseq) - RNA-seq analysis pipeline.
-* [nf-core/smrnaseq](https://github.com/nf-core/smrnaseq) - small RNA-seq analysis pipeline.
+* [nf-core/chipseq](https://github.com/nf-core/chipseq) - Chromatin immunoprecipitation (ChIP-seq) analysis using BWA and MACS2 with QC steps.
+* [nf-core/EAGER2](https://github.com/nf-core/EAGER2) - Ancient DNA pipeline
+* [nf-core/exoseq](https://github.com/nf-core/exoseq) - Exome Sequencing analysis pipeline.
+* [nf-core/hlatyping](https://github.com/nf-core/hlatyping) - Precision HLA typing from next-generation sequencing data.
+* [nf-core/ICGC-featureCounts](https://github.com/nf-core/ICGC-featureCounts) - Pipeline to run featureCounts on RNAseq BAM files on ICGC in AWS/AWS Batch
+* [nf-core/mag](https://github.com/nf-core/mag) - Assembly, binning and annotation of metagenomes.
+* [nf-core/methylseq](https://github.com/nf-core/methylseq) - Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel.
+* [nf-core/rnaseq](https://github.com/nf-core/rnaseq) - RNA sequencing analysis pipeline using STAR or HISAT2, with gene counts and quality control.
+* [nf-core/smrnaseq](https://github.com/nf-core/smrnaseq) - Analysis pipeline for small-RNA sequencing data.
+* [nf-core/vipr](https://github.com/nf-core/vipr) - Assembly and intrahost / low-frequency variant calling for viral samples.
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
 * [robsyme/nf-repeatmasking](https://github.com/robsyme/nf-repeatmasking) - Workflow for automatic repeat detection, classification and masking.
 * [sanger-pathogens/companion](https://github.com/sanger-pathogens/companion) - Eukaryotic genome annotation pipeline.

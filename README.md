@@ -100,6 +100,8 @@ Tutorials
 * [Nextflow demos](https://github.com/stevekm/nextflow-demos) - Example Nextflow pipelines and programming techniques
  (by Stephen Kelly)
 * [H3ABioNet course](https://github.com/shaze/nextflow-course)
+* [Running nf-core pipelines with AWS Batch](https://apeltzer.github.io/post/01-aws-nfcore/)
+* [Running nextflow on AWS Batch](https://antunderwood.gitlab.io/bioinformant-blog/posts/running_nextflow_on_aws_batch/)
 
 Pipelines collections
 -------------

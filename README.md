@@ -16,6 +16,7 @@ Featured pipelines
 * [cbcrg/kallisto-nf](https://github.com/cbcrg/kallisto-nf) - Nextflow implementation of Kallisto & Sleuth RNA-Seq Tools.
 * [cbcrg/piper-nf](https://github.com/cbcrg/piper-nf) - RNA mapping pipeline.
 * [cbcrg/unistrap](https://github.com/cbcrg/unistrap) - Reliability measure of inferred phylogenetic trees.
+* [crickbabs/BABS-aDNASeq](https://github.com/crickbabs/BABS-aDNASeq) - An ancient DNA nextflow analysis pipeline.
 * [CRG-CNAG/CalliNGS-NF](https://github.com/CRG-CNAG/CalliNGS-NF) - Variant Calling Analysis with RNA-Seq data based on GATK best practices.
 * [evanfloden/concTree](https://github.com/evanfloden/concTree) - Creates consensus trees using alignment uncertainty from many MSAs.
 * [evanfloden/lncRNA-Annotation-nf](https://github.com/evanfloden/lncRNA-Annotation-nf) - lncRNA Annotation Pipeline based on STAR, Cufflinks and FEELnc.
@@ -29,6 +30,7 @@ Featured pipelines
 * [IARCbioinfo/needlestack](https://github.com/IARCbioinfo/needlestack) - Multi-sample somatic variant caller.
 * [jdidion/atropos](https://github.com/jdidion/atropos/tree/master/paper) - NGS read trimming tool that is specific, sensitive, and speedy.
 * [likelet/LncPipe](https://github.com/likelet/LncPipe) - A Nextflow-based pipeline for lncRNA discovery and comprehensive analysis from un processed RNA-seq data.
+* [loosolab/TOuCAN](https://github.molgen.mpg.de/loosolab/TOuCAN) - Targeted chrOmatin Capture ANalysis.
 * [metagenomics/MeRaGENE](https://github.com/metagenomics/MeRaGENE) - Metagenomics rapid gene identification pipeline.
 * [mirnylab/distiller-nf](https://github.com/mirnylab/distiller-nf) - Modular Hi-C mapping pipeline.
 * [montilab/pipeliner](https://github.com/montilab/pipeliner) - Framework for the definition of sequencing data processing workflows.

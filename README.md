@@ -12,6 +12,7 @@ Example pipelines
 
 Featured pipelines
 -------------------
+* [AndersenLab/cegwas2-nf](https://github.com/AndersenLab/cegwas2-nf) - GWA mapping with C. elegans.
 * [alesssia/YAMP](https://github.com/alesssia/YAMP) - Yet Another Metagenomic Pipeline.
 * [cbcrg/kallisto-nf](https://github.com/cbcrg/kallisto-nf) - Nextflow implementation of Kallisto & Sleuth RNA-Seq Tools.
 * [cbcrg/piper-nf](https://github.com/cbcrg/piper-nf) - RNA mapping pipeline.

@@ -117,6 +117,12 @@ Presentations
 * [rsuchecki.github.io](https://rsuchecki.github.io/reproducible/show.html#/) - Reproducbile and Reusable publication and analysis workflow by [bioinforad](https://twitter.com/bioinforad)
 * [CIC Show-and-Tell](https://cdn.rawgit.com/robsyme/nextflow-intro/4615e5a/index.html) - Nice Nextflow presentation by [@robsyme](https://github.com/robsyme)
 
+Syntax highlithing 
+-------------------
+* [Atom](https://atom.io/packages/language-nextflow)
+* [VIM](https://github.com/LukeGoodsell/nextflow-vim)
+* [VSCode](https://github.com/nextflow-io/vscode-language-nextflow)
+
 Other links  
 ---------------
 * [Nextflow Hackathon '17](https://github.com/nextflow-io/hack17) - Projects repositorty of the Nextflow Hackathon held in Barcelona, Sept 2017

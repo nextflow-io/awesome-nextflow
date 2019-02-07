@@ -14,6 +14,8 @@ Featured pipelines
 -------------------
 * [AndersenLab/cegwas2-nf](https://github.com/AndersenLab/cegwas2-nf) - GWA mapping with C. elegans.
 * [alesssia/YAMP](https://github.com/alesssia/YAMP) - Yet Another Metagenomic Pipeline.
+* [biocorecrg/indrop](https://github.com/biocorecrg/indrop)- Single cell transcriptome analysis pipeline based on DropEst.
+* [biocorecrg/vectorQC](https://github.com/biocorecrg/vectorQC) - A Nextflow pipeline for assembling vectors and extract annotations.
 * [cbcrg/kallisto-nf](https://github.com/cbcrg/kallisto-nf) - Nextflow implementation of Kallisto & Sleuth RNA-Seq Tools.
 * [cbcrg/piper-nf](https://github.com/cbcrg/piper-nf) - RNA mapping pipeline.
 * [cbcrg/unistrap](https://github.com/cbcrg/unistrap) - Reliability measure of inferred phylogenetic trees.
@@ -52,8 +54,6 @@ Featured pipelines
 * [SciLifeLab/Sarek](https://github.com/SciLifeLab/Sarek) - Detect germline or somatic variants from normal or tumour/normal WGS.
 * [tburk/smallRNA-meth](https://gitlab.com/tburk/smallRNA-meth) - [Analyzes smallRNA methylation data](https://www.nature.com/articles/nmeth.4610).
 * [ZuberLab/mageck-nf](https://github.com/ZuberLab/mageck-nf) - Statistical Analysis of multiplexed CRISPR / shRNA Screens using MAGeCK.
-* [biocorecrg/vectorQC](https://github.com/biocorecrg/vectorQC) - A Nextflow pipeline for assembling vectors and extract annotations
-* [biocorecrg/indrop](https://github.com/biocorecrg/indrop)- Single cell transcriptome analysis pipeline based on DropEst
 
 Other pipelines
 ------------------

@@ -14,6 +14,8 @@ Featured pipelines
 -------------------
 * [AndersenLab/cegwas2-nf](https://github.com/AndersenLab/cegwas2-nf) - GWA mapping with C. elegans.
 * [alesssia/YAMP](https://github.com/alesssia/YAMP) - Yet Another Metagenomic Pipeline.
+* [biocorecrg/indrop](https://github.com/biocorecrg/indrop)- Single cell transcriptome analysis pipeline based on DropEst.
+* [biocorecrg/vectorQC](https://github.com/biocorecrg/vectorQC) - A Nextflow pipeline for assembling vectors and extract annotations.
 * [cbcrg/kallisto-nf](https://github.com/cbcrg/kallisto-nf) - Nextflow implementation of Kallisto & Sleuth RNA-Seq Tools.
 * [cbcrg/piper-nf](https://github.com/cbcrg/piper-nf) - RNA mapping pipeline.
 * [cbcrg/unistrap](https://github.com/cbcrg/unistrap) - Reliability measure of inferred phylogenetic trees.

@@ -108,6 +108,7 @@ Tutorials
 * [Running nf-core pipelines with AWS Batch](https://apeltzer.github.io/post/01-aws-nfcore/)
 * [Running nextflow on AWS Batch](https://antunderwood.gitlab.io/bioinformant-blog/posts/running_nextflow_on_aws_batch/)
 * [How to make a bigger custom AMI?](https://maxulysse.github.io/2018/11/05/Custom-AMI/)
+* [Nextflow on AWS Batch](https://docs.opendata.aws/genomics-workflows/orchestration/nextflow/nextflow-overview/)
 
 Pipelines collections
 -------------

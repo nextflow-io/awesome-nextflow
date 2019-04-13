@@ -29,7 +29,9 @@ Featured pipelines
 * [guigolab/grape-nf](https://github.com/guigolab/grape-nf) - Automated RNA-seq pipeline.
 * [guigolab/ipsa-nf](https://github.com/guigolab/ipsa-nf) - Integrative Pipeline for Splicing Analyses.
 * [h3abionet/h3abionet16S](https://github.com/h3abionet/h3abionet16S) - Integrated pipeline for 16S rDNA diversity analysis.
-* [IARCbioinfo/needlestack](https://github.com/IARCbioinfo/needlestack) - Multi-sample somatic variant caller.
+* [IARC/needlestack](https://github.com/IARCbioinfo/needlestack) - Multi-sample somatic variant caller.
+* [IARC/gatk4-GenotypeGVCFs-nf](https://github.com/IARCbioinfo/gatk4-GenotypeGVCFs-nf) - Joint calling of gVCF, following GATK4 Best Practices.
+* [IARC/gatk4-HaplotypeCaller-nf](https://github.com/IARCbioinfo/gatk4-HaplotypeCaller-nf) - GATK4 HaplotypeCaller step, in gVCF mode, first step for subsequent whole cohort Joint Genotyping.
 * [jdidion/atropos](https://github.com/jdidion/atropos/tree/master/paper) - NGS read trimming tool that is specific, sensitive, and speedy.
 * [likelet/LncPipe](https://github.com/likelet/LncPipe) - A Nextflow-based pipeline for lncRNA discovery and comprehensive analysis from un processed RNA-seq data.
 * [loosolab/TOuCAN](https://github.molgen.mpg.de/loosolab/TOuCAN) - Targeted chrOmatin Capture ANalysis.

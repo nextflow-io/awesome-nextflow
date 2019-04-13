@@ -22,11 +22,9 @@ Featured pipelines
 * [cbcrg/unistrap](https://github.com/cbcrg/unistrap) - Reliability measure of inferred phylogenetic trees.
 * [crickbabs/BABS-aDNASeq](https://github.com/crickbabs/BABS-aDNASeq) - An ancient DNA nextflow analysis pipeline.
 * [CRG-CNAG/CalliNGS-NF](https://github.com/CRG-CNAG/CalliNGS-NF) - Variant Calling Analysis with RNA-Seq data based on GATK best practices.
-* [evanfloden/concTree](https://github.com/evanfloden/concTree) - Creates consensus trees using alignment uncertainty from many MSAs.
-* [evanfloden/lncRNA-Annotation-nf](https://github.com/evanfloden/lncRNA-Annotation-nf) - lncRNA Annotation Pipeline based on STAR, Cufflinks and FEELnc.
-* [evanfloden/paraMSA](https://github.com/evanfloden/paraMSA/) - Multiple sequence alignments for phylogenetic trees and bootstrap support values.
-* [evanfloden/tuxedo-nf](https://github.com/evanfloden/tuxedo-nf) - Nextflow implementation of the Tuxedo Suite of Tools.
-* [evanfloden/vast-tools-nf](https://github.com/evanfloden/vast-tools-nf) - Nextflow Implementation of VAST-TOOLS for profiling alternative splicing events in RNA-Seq data.
+* [Dowell-Lab/ChIP-Flow](https://github.com/Dowell-Lab/ChIP-Flow) - Nextflow pipeline for ChIP-seq analysis.
+* [Dowell-Lab/RNAseq-Flow](https://github.com/Dowell-Lab/RNAseq-Flow) - Nextflow pipeline for processing RNA-seq data.
+* [Dowell-Lab/Nascent-Flow](https://github.com/Dowell-Lab/Nascent-Flow) - Nascent Transcription Processing Pipeline.
 * [guigolab/chip-nf](https://github.com/guigolab/chip-nf) - Automated ChIP-seq pipeline.
 * [guigolab/grape-nf](https://github.com/guigolab/grape-nf) - Automated RNA-seq pipeline.
 * [guigolab/ipsa-nf](https://github.com/guigolab/ipsa-nf) - Integrative Pipeline for Splicing Analyses.
@@ -39,11 +37,12 @@ Featured pipelines
 * [mirnylab/distiller-nf](https://github.com/mirnylab/distiller-nf) - Modular Hi-C mapping pipeline.
 * [montilab/pipeliner](https://github.com/montilab/pipeliner) - Framework for the definition of sequencing data processing workflows.
 * [NCBI-Hackathons/ATACFlow](https://github.com/NCBI-Hackathons/ATACFlow) - ATAC-seq pipeline wrapped in NextFlow.
+* [NCSA/GenomicsCortextVarNextflow](https://github.com/ncsa/GenomicsCortextVarNextflow) - Structural Variant Calling with Cortex-Var.
 * [nf-core/chipseq](https://github.com/nf-core/chipseq) - Chromatin immunoprecipitation (ChIP-seq) analysis using BWA and MACS2 with QC steps.
-* [nf-core/EAGER2](https://github.com/nf-core/EAGER2) - Ancient DNA pipeline
+* [nf-core/EAGER2](https://github.com/nf-core/EAGER2) - Ancient DNA pipeline.
 * [nf-core/exoseq](https://github.com/nf-core/exoseq) - Exome Sequencing analysis pipeline.
 * [nf-core/hlatyping](https://github.com/nf-core/hlatyping) - Precision HLA typing from next-generation sequencing data.
-* [nf-core/ICGC-featureCounts](https://github.com/nf-core/ICGC-featureCounts) - Pipeline to run featureCounts on RNAseq BAM files on ICGC in AWS/AWS Batch
+* [nf-core/ICGC-featureCounts](https://github.com/nf-core/ICGC-featureCounts) - Pipeline to run featureCounts on RNAseq BAM files.
 * [nf-core/mag](https://github.com/nf-core/mag) - Assembly, binning and annotation of metagenomes.
 * [nf-core/methylseq](https://github.com/nf-core/methylseq) - Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel.
 * [nf-core/rnaseq](https://github.com/nf-core/rnaseq) - RNA sequencing analysis pipeline using STAR or HISAT2, with gene counts and quality control.
@@ -67,6 +66,11 @@ Other pipelines
 * [cerebis/meta-sweeper](https://github.com/cerebis/meta-sweeper) - Parametric sweep of simulated microbial communities and metagenomic sequencing.
 * [charite/ngspipeline](https://github.com/charite/ngspipeline)
 * [chrisquince/DESMAN](https://github.com/chrisquince/DESMAN) - De novo Extraction of Strains from MetAgeNomes.
+* [evanfloden/concTree](https://github.com/evanfloden/concTree) - Creates consensus trees using alignment uncertainty from many MSAs.
+* [evanfloden/lncRNA-Annotation-nf](https://github.com/evanfloden/lncRNA-Annotation-nf) - lncRNA Annotation Pipeline based on STAR, Cufflinks and FEELnc.
+* [evanfloden/paraMSA](https://github.com/evanfloden/paraMSA/) - Multiple sequence alignments for phylogenetic trees and bootstrap support values.
+* [evanfloden/tuxedo-nf](https://github.com/evanfloden/tuxedo-nf) - Nextflow implementation of the Tuxedo Suite of Tools.
+* [evanfloden/vast-tools-nf](https://github.com/evanfloden/vast-tools-nf) - Nextflow Implementation of VAST-TOOLS for profiling alternative splicing events in RNA-Seq data.
 * [fredericlemoine/rna-pipeline](https://github.com/fredericlemoine/rna-pipeline)
 * [h3abionet/chipimputation](https://github.com/h3abionet/chipimputation) - Imputation workflow developed as part of the H3 Africa BioNet Hackathon.
 * [h3abionet/h3agwas](https://github.com/h3abionet/h3agwas) - GWAS pipeline developed as part of the H3 Africa BioNet Hackathon.

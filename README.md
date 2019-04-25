@@ -17,6 +17,7 @@ Featured pipelines
 * [anvlasova/FA-nf](https://github.com/anvlasova/FA-nf) - Functional annotation pipeline for proteins from non-model organisms.
 * [biocorecrg/indrop](https://github.com/biocorecrg/indrop)- Single cell transcriptome analysis pipeline based on DropEst.
 * [biocorecrg/vectorQC](https://github.com/biocorecrg/vectorQC) - A Nextflow pipeline for assembling vectors and extract annotations.
+* [brwnj/smoove-nf](https://github.com/brwnj/smoove-nf) - Smoove workflow for Structural Variant calling and Quality Control.
 * [cbcrg/kallisto-nf](https://github.com/cbcrg/kallisto-nf) - Nextflow implementation of Kallisto & Sleuth RNA-Seq Tools.
 * [cbcrg/piper-nf](https://github.com/cbcrg/piper-nf) - RNA mapping pipeline.
 * [cbcrg/unistrap](https://github.com/cbcrg/unistrap) - Reliability measure of inferred phylogenetic trees.

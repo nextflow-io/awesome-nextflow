@@ -26,6 +26,7 @@ Featured pipelines
 * [Dowell-Lab/ChIP-Flow](https://github.com/Dowell-Lab/ChIP-Flow) - Nextflow pipeline for ChIP-seq analysis.
 * [Dowell-Lab/RNAseq-Flow](https://github.com/Dowell-Lab/RNAseq-Flow) - Nextflow pipeline for processing RNA-seq data.
 * [Dowell-Lab/Nascent-Flow](https://github.com/Dowell-Lab/Nascent-Flow) - Nascent Transcription Processing Pipeline.
+* [FredHutch/reproducible-workflows](https://github.com/FredHutch/reproducible-workflows/tree/master/nextflow) - Reproducible Workflows, curated at the Fred Hutch.
 * [guigolab/chip-nf](https://github.com/guigolab/chip-nf) - Automated ChIP-seq pipeline.
 * [guigolab/grape-nf](https://github.com/guigolab/grape-nf) - Automated RNA-seq pipeline.
 * [guigolab/ipsa-nf](https://github.com/guigolab/ipsa-nf) - Integrative Pipeline for Splicing Analyses.

@@ -132,6 +132,7 @@ Presentations
 Syntax highlithing 
 -------------------
 * [Atom](https://atom.io/packages/language-nextflow)
+* [Sublime Text](https://github.com/peterk87/sublime-nextflow)
 * [VIM](https://github.com/LukeGoodsell/nextflow-vim)
 * [VSCode](https://github.com/nextflow-io/vscode-language-nextflow)
 

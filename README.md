@@ -16,6 +16,8 @@ Featured pipelines
 * [alesssia/YAMP](https://github.com/alesssia/YAMP) - Yet Another Metagenomic Pipeline.
 * [anvlasova/FA-nf](https://github.com/anvlasova/FA-nf) - Functional annotation pipeline for proteins from non-model organisms.
 * [biocorecrg/indrop](https://github.com/biocorecrg/indrop)- Single cell transcriptome analysis pipeline based on DropEst.
+* [biocorecrg/master_of_pores](https://github.com/biocorecrg/master_of_pores) - Nextflow pipeline for analysis of Nanopore reads (basecalling, demultiplexing, alignment and QC). 
+* [biocorecrg/transcriptome_assembly](https://github.com/biocorecrg/transcriptome_assembly) - A de novo transcriptome assembly workflow based on Trinity package.
 * [biocorecrg/vectorQC](https://github.com/biocorecrg/vectorQC) - A Nextflow pipeline for assembling vectors and extract annotations.
 * [brwnj/smoove-nf](https://github.com/brwnj/smoove-nf) - Smoove workflow for Structural Variant calling and Quality Control.
 * [cbcrg/kallisto-nf](https://github.com/cbcrg/kallisto-nf) - Nextflow implementation of Kallisto & Sleuth RNA-Seq Tools.

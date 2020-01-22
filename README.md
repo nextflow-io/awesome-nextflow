@@ -16,7 +16,7 @@ Featured pipelines
 * [alesssia/YAMP](https://github.com/alesssia/YAMP) - Yet Another Metagenomic Pipeline.
 * [anvlasova/FA-nf](https://github.com/anvlasova/FA-nf) - Functional annotation pipeline for proteins from non-model organisms.
 * [biocorecrg/indrop](https://github.com/biocorecrg/indrop)- Single cell transcriptome analysis pipeline based on DropEst.
-* [biocorecrg/vectorQC](https://github.com/biocorecrg/vectorQC) - A Nextflow pipeline for assembling vectors and extract annotations.
+* [biocorecrg/vectorQC](https://github.com/biocorecrg/vectorQC) - A Nextflow pipeline for assembling and annotating vectors. 
 * [brwnj/smoove-nf](https://github.com/brwnj/smoove-nf) - Smoove workflow for Structural Variant calling and Quality Control.
 * [cbcrg/kallisto-nf](https://github.com/cbcrg/kallisto-nf) - Nextflow implementation of Kallisto & Sleuth RNA-Seq Tools.
 * [cbcrg/piper-nf](https://github.com/cbcrg/piper-nf) - RNA mapping pipeline.
@@ -30,6 +30,7 @@ Featured pipelines
 * [guigolab/chip-nf](https://github.com/guigolab/chip-nf) - Automated ChIP-seq pipeline.
 * [guigolab/grape-nf](https://github.com/guigolab/grape-nf) - Automated RNA-seq pipeline.
 * [guigolab/ipsa-nf](https://github.com/guigolab/ipsa-nf) - Integrative Pipeline for Splicing Analyses.
+* [guigolab/FA-nf](https://github.com/guigolab/FA-nf) - Functional annotation pipeline for proteins from non-model organisms 
 * [h3abionet/h3abionet16S](https://github.com/h3abionet/h3abionet16S) - Integrated pipeline for 16S rDNA diversity analysis.
 * [IARC/needlestack](https://github.com/IARCbioinfo/needlestack) - Multi-sample somatic variant caller.
 * [IARC/gatk4-GenotypeGVCFs-nf](https://github.com/IARCbioinfo/gatk4-GenotypeGVCFs-nf) - Joint calling of gVCF, following GATK4 Best Practices.
@@ -118,6 +119,7 @@ Tutorials
 * [Running nextflow on AWS Batch](https://antunderwood.gitlab.io/bioinformant-blog/posts/running_nextflow_on_aws_batch/)
 * [How to make a bigger custom AMI?](https://maxulysse.github.io/2018/11/05/Custom-AMI/)
 * [Nextflow on AWS Batch](https://docs.opendata.aws/genomics-workflows/orchestration/nextflow/nextflow-overview/)
+* [Pipelines on AWS](https://t-neumann.github.io/pipelines/AWS-pipeline/)
 
 Pipelines collections
 -------------

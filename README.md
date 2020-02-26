@@ -132,6 +132,11 @@ Presentations
 * [rsuchecki.github.io](https://rsuchecki.github.io/reproducible/show.html#/) - Reproducbile and Reusable publication and analysis workflow by [bioinforad](https://twitter.com/bioinforad)
 * [CIC Show-and-Tell](https://cdn.rawgit.com/robsyme/nextflow-intro/4615e5a/index.html) - Nice Nextflow presentation by [@robsyme](https://github.com/robsyme)
 
+Video
+-----
+* [Nextflow: Scalable, Shareable & Reproducible workflows](https://www.youtube.com/watch?v=lqm-VV5dOgk) - Awesome intro by Rad Suchecki
+* [Nextflow Youtube channel](https://www.youtube.com/channel/UCB-5LCKLdTKVn2F4V4KlPbQ)
+
 Syntax highlithing 
 -------------------
 * [Atom](https://atom.io/packages/language-nextflow)

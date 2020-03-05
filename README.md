@@ -137,9 +137,10 @@ Video
 * [Nextflow: Scalable, Shareable & Reproducible workflows](https://www.youtube.com/watch?v=lqm-VV5dOgk) - Awesome intro by Rad Suchecki
 * [Nextflow Youtube channel](https://www.youtube.com/channel/UCB-5LCKLdTKVn2F4V4KlPbQ)
 
-Syntax highlithing 
+Syntax highlighting
 -------------------
 * [Atom](https://atom.io/packages/language-nextflow)
+* [Emacs](https://github.com/Emiller88/nextflow-mode)
 * [Sublime Text](https://github.com/peterk87/sublime-nextflow)
 * [VIM](https://github.com/LukeGoodsell/nextflow-vim)
 * [VSCode](https://github.com/nextflow-io/vscode-language-nextflow)

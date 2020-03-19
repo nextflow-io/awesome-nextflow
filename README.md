@@ -61,6 +61,14 @@ Featured pipelines
 * [tburk/smallRNA-meth](https://gitlab.com/tburk/smallRNA-meth) - [Analyzes smallRNA methylation data](https://www.nature.com/articles/nmeth.4610).
 * [ZuberLab/mageck-nf](https://github.com/ZuberLab/mageck-nf) - Statistical Analysis of multiplexed CRISPR / shRNA Screens using MAGeCK.
 
+Covid-19 related projects
+-------------------------
+
+* [BU-ISCIII/SARS-Cov2_analysis](https://github.com/BU-ISCIII/SARS-Cov2_analysis) - SARS-Cov2 bioinformatics analysis.
+* [connor-lab/ncov2019-artic-nf](https://github.com/connor-lab/ncov2019-artic-nf) - A Nextflow pipeline for running the ARTIC network's fieldbioinformatics tools with a focus on ncov2019.
+* [jnoms/virID](https://github.com/jnoms/virID) - Viral Identification and Discovery - A viral characterization pipeline built in Nextflow.
+* [nf-core/covid19](https://github.com/nf-core/covid19) - A pipeline for the analysis of COVID-19 pandemic data.
+
 Other pipelines
 ------------------
 * [abreschi/ShortRNA-nf](https://github.com/abreschi/ShortRNA-nf) - Pipeline for processing shortRNA-seq data.

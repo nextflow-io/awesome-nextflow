@@ -63,7 +63,7 @@ Featured pipelines
 
 Covid-19 related projects
 -------------------------
-
+* [biocorecrg/master_of_pores](https://github.com/biocorecrg/master_of_pores) - Nextflow pipeline for analysis of Nanopore data from direct RNA sequencing (see [also](https://biocorecrg.github.io/covid/)).
 * [BU-ISCIII/SARS-Cov2_analysis](https://github.com/BU-ISCIII/SARS-Cov2_analysis) - SARS-Cov2 bioinformatics analysis.
 * [connor-lab/ncov2019-artic-nf](https://github.com/connor-lab/ncov2019-artic-nf) - A Nextflow pipeline for running the ARTIC network's fieldbioinformatics tools with a focus on ncov2019.
 * [jnoms/virID](https://github.com/jnoms/virID) - Viral Identification and Discovery - A viral characterization pipeline built in Nextflow.

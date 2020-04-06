@@ -68,6 +68,7 @@ Covid-19 related projects
 * [connor-lab/ncov2019-artic-nf](https://github.com/connor-lab/ncov2019-artic-nf) - A Nextflow pipeline for running the ARTIC network's fieldbioinformatics tools with a focus on ncov2019.
 * [jnoms/virID](https://github.com/jnoms/virID) - Viral Identification and Discovery - A viral characterization pipeline built in Nextflow.
 * [nf-core/covid19](https://github.com/nf-core/covid19) - A pipeline for the analysis of COVID-19 pandemic data.
+* [nf-core/viralrecon/](https://github.com/nf-core/viralrecon/) - Assembly and intrahost/low-frequency variant calling for viral samples.
 
 Other pipelines
 ------------------

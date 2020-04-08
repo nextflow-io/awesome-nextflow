@@ -145,6 +145,7 @@ Video
 -----
 * [Nextflow: Scalable, Shareable & Reproducible workflows](https://www.youtube.com/watch?v=lqm-VV5dOgk) - Awesome intro by Rad Suchecki
 * [Nextflow Youtube channel](https://www.youtube.com/channel/UCB-5LCKLdTKVn2F4V4KlPbQ)
+* [Using NextFlow pipelines at Babraham](https://www.youtube.com/watch?v=oAjZ0xmewp8)
 
 Syntax highlighting
 -------------------

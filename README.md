@@ -138,6 +138,11 @@ Pipelines collections
 * [IARC-nf](https://github.com/IARCbioinfo/IARC-nf) - List of [IARC](https://www.iarc.fr/) bioinformatics nextflow pipelines.
 * [nf-core](http://nf-co.re/pipelines) - A collection of high quality Nextflow pipelines.
 
+Modules collections
+--------------------
+* [nf-core/modules](https://github.com/nf-core/modules/) - Repository to host tool-specific module files for the Nextflow DSL2 community
+* [UMCUGenetics/NextflowModules](https://github.com/UMCUGenetics/NextflowModules) - UMCU Genetics Nextflow modules
+
 Presentations
 -------------
 * [rsuchecki.github.io](https://rsuchecki.github.io/reproducible/show.html#/) - Reproducible and Reusable publication and analysis workflow by [bioinforad](https://twitter.com/bioinforad)

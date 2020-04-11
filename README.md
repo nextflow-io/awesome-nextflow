@@ -130,6 +130,8 @@ Tutorials
 * [How to make a bigger custom AMI?](https://maxulysse.github.io/2018/11/05/Custom-AMI/)
 * [Nextflow on AWS Batch](https://docs.opendata.aws/genomics-workflows/orchestration/nextflow/nextflow-overview/)
 * [Pipelines on AWS](https://t-neumann.github.io/pipelines/AWS-pipeline/)
+* [AWS Biotech blueprint](https://aws.amazon.com/quickstart/biotech-blueprint/nextflow/)
+* [Running Nextflow on Google Cloud](https://cloud.google.com/life-sciences/docs/tutorials/nextflow)
 
 Pipelines collections
 -------------
@@ -138,7 +140,7 @@ Pipelines collections
 
 Presentations
 -------------
-* [rsuchecki.github.io](https://rsuchecki.github.io/reproducible/show.html#/) - Reproducbile and Reusable publication and analysis workflow by [bioinforad](https://twitter.com/bioinforad)
+* [rsuchecki.github.io](https://rsuchecki.github.io/reproducible/show.html#/) - Reproducible and Reusable publication and analysis workflow by [bioinforad](https://twitter.com/bioinforad)
 * [CIC Show-and-Tell](https://cdn.rawgit.com/robsyme/nextflow-intro/4615e5a/index.html) - Nice Nextflow presentation by [@robsyme](https://github.com/robsyme)
 
 Video

@@ -38,7 +38,7 @@ Featured pipelines
 * [IARC/gatk4-GenotypeGVCFs-nf](https://github.com/IARCbioinfo/gatk4-GenotypeGVCFs-nf) - Joint calling of gVCF, following GATK4 Best Practices.
 * [IARC/gatk4-HaplotypeCaller-nf](https://github.com/IARCbioinfo/gatk4-HaplotypeCaller-nf) - GATK4 HaplotypeCaller step, in gVCF mode, first step for subsequent whole cohort Joint Genotyping.
 * [icgc-argo/sanger-wgs-variant-calling](https://github.com/icgc-argo/sanger-wgs-variant-calling) - Sanger WGS Variant Caller.
-* [jdidion/atropos](https://github.com/jdidion/atropos/tree/master/paper) - NGS read trimming tool that is specific, sensitive, and speedy.
+* [jdidion/atropos](https://github.com/jdidion/atropos/tree/main/paper) - NGS read trimming tool that is specific, sensitive, and speedy.
 * [loosolab/TOuCAN](https://github.molgen.mpg.de/loosolab/TOuCAN) - Targeted chrOmatin Capture ANalysis.
 * [metagenomics/MeRaGENE](https://github.com/metagenomics/MeRaGENE) - Metagenomics rapid gene identification pipeline.
 * [mirnylab/distiller-nf](https://github.com/mirnylab/distiller-nf) - Modular Hi-C mapping pipeline.

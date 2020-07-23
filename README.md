@@ -60,6 +60,7 @@ Featured pipelines
 * [qbicsoftware/icgc-featurecounts](https://github.com/qbicsoftware/icgc-featurecounts) - Pipeline to run featureCounts on RNAseq BAM files.
 * [sanger-pathogens/companion](https://github.com/sanger-pathogens/companion) - Eukaryotic genome annotation pipeline.
 * [tburk/smallRNA-meth](https://gitlab.com/tburk/smallRNA-meth) - [Analyzes smallRNA methylation data](https://www.nature.com/articles/nmeth.4610).
+* [ZuberLab/crispr-process-nf](https://github.com/ZuberLab/crispr-process-nf) - Process CRISPR and shRNA functional genetic screening data.
 * [ZuberLab/mageck-nf](https://github.com/ZuberLab/mageck-nf) - Statistical Analysis of multiplexed CRISPR / shRNA Screens using MAGeCK.
 
 Covid-19 related projects

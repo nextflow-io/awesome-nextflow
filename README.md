@@ -52,6 +52,7 @@ Featured pipelines
 * [nf-core/mag](https://github.com/nf-core/mag) - Assembly and binning of metagenomes.
 * [nf-core/methylseq](https://github.com/nf-core/methylseq) - Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel.
 * [nf-core/rnaseq](https://github.com/nf-core/rnaseq) - RNA sequencing analysis pipeline using STAR, HISAT2 and Salmon with gene counts and quality control.
+* [nf-core/rnafusion](https://github.com/nf-core/rnafusion) - RNA sequencing analysis pipeline with curated list of tools for detecting and visualizing fusion genes.
 * [nf-core/sarek](https://github.com/nf-core/sarek) - Analysis pipeline to detect germline or somatic variants from WGS / targeted sequencing.
 * [nf-core/smrnaseq](https://github.com/nf-core/smrnaseq) - A small-RNA sequencing analysis pipeline.
 * [nf-core/vipr](https://github.com/nf-core/vipr) - Assembly and intrahost / low-frequency variant calling for viral samples.

@@ -15,6 +15,7 @@ Featured pipelines
 * [AndersenLab/cegwas2-nf](https://github.com/AndersenLab/cegwas2-nf) - GWA mapping with C. elegans.
 * [alesssia/YAMP](https://github.com/alesssia/YAMP) - Yet Another Metagenomic Pipeline.
 * [anvlasova/FA-nf](https://github.com/anvlasova/FA-nf) - Functional annotation pipeline for proteins from non-model organisms.
+* [bactopia/bactopia](https://github.com/bactopia/bactopia) - A flexible pipeline for complete analysis of bacterial genomes.
 * [biocorecrg/indrop](https://github.com/biocorecrg/indrop)- Single cell transcriptome analysis pipeline based on DropEst.
 * [biocorecrg/master_of_pores](https://github.com/biocorecrg/master_of_pores) -  Nextflow pipeline for analysis of direct RNA Nanopore reads.
 * [biocorecrg/transcriptome_assembly](https://github.com/biocorecrg/transcriptome_assembly) - De novo transcriptome assembly and annotations workflow based on trinity / transdecoder. 

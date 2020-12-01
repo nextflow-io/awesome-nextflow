@@ -52,11 +52,13 @@ Featured pipelines
 * [nf-core/lncpipe](https://github.com/nf-core/lncpipe) - Analysis of long non-coding RNAs from RNA-seq datasets.
 * [nf-core/mag](https://github.com/nf-core/mag) - Assembly and binning of metagenomes.
 * [nf-core/methylseq](https://github.com/nf-core/methylseq) - Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel.
+* [nf-core/pangenome](https://github.com/nf-core/pangenome) - Renders a collection of sequences into a pangenome graph.
 * [nf-core/rnaseq](https://github.com/nf-core/rnaseq) - RNA sequencing analysis pipeline using STAR, HISAT2 and Salmon with gene counts and quality control.
 * [nf-core/rnafusion](https://github.com/nf-core/rnafusion) - RNA sequencing analysis pipeline with curated list of tools for detecting and visualizing fusion genes.
 * [nf-core/sarek](https://github.com/nf-core/sarek) - Analysis pipeline to detect germline or somatic variants from WGS / targeted sequencing.
 * [nf-core/smrnaseq](https://github.com/nf-core/smrnaseq) - A small-RNA sequencing analysis pipeline.
 * [nf-core/vipr](https://github.com/nf-core/vipr) - Assembly and intrahost / low-frequency variant calling for viral samples.
+* [nf-core/viralrecon](https://github.com/nf-core/viralrecon/) - Assembly and intrahost/low-frequency variant calling for viral samples.
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
 * [robsyme/nf-repeatmasking](https://github.com/robsyme/nf-repeatmasking) - Workflow for automatic repeat detection, classification and masking.
 * [qbicsoftware/icgc-featurecounts](https://github.com/qbicsoftware/icgc-featurecounts) - Pipeline to run featureCounts on RNAseq BAM files.
@@ -70,9 +72,9 @@ Covid-19 related projects
 * [biocorecrg/master_of_pores](https://github.com/biocorecrg/master_of_pores) - Nextflow pipeline for analysis of Nanopore data from direct RNA sequencing (see [also](https://biocorecrg.github.io/covid/)).
 * [BU-ISCIII/SARS-Cov2_analysis](https://github.com/BU-ISCIII/SARS-Cov2_analysis) - SARS-Cov2 bioinformatics analysis.
 * [connor-lab/ncov2019-artic-nf](https://github.com/connor-lab/ncov2019-artic-nf) - A Nextflow pipeline for running the ARTIC network's fieldbioinformatics tools with a focus on ncov2019.
+* [heuermh/sars-cov-2](https://github.com/heuermh/sars-cov-2) - Transform SARS-CoV-2 annotated genomes into sequences and features in [Apache Parquet](http://parquet.apache.org) format.
 * [jnoms/virID](https://github.com/jnoms/virID) - Viral Identification and Discovery - A viral characterization pipeline built in Nextflow.
-* [nf-core/covid19](https://github.com/nf-core/covid19) - A pipeline for the analysis of COVID-19 pandemic data.
-* [nf-core/viralrecon/](https://github.com/nf-core/viralrecon/) - Assembly and intrahost/low-frequency variant calling for viral samples.
+* [nf-core/viralrecon](https://github.com/nf-core/viralrecon/) - Assembly and intrahost/low-frequency variant calling for viral samples.
 
 Other pipelines
 ------------------
@@ -94,7 +96,6 @@ Other pipelines
 * [h3abionet/chipimputation](https://github.com/h3abionet/chipimputation) - Imputation workflow developed as part of the H3 Africa BioNet Hackathon.
 * [h3abionet/h3agwas](https://github.com/h3abionet/h3agwas) - GWAS pipeline developed as part of the H3 Africa BioNet Hackathon.
 * [HadrienG/pipelines](https://github.com/HadrienG/pipelines)
-* [heuermh/bdg-nextflow](https://github.com/heuermh/bdg-nextflow) - Transform BAM files found recursively in a given directory to [ADAM](https://github.com/bigdatagenomics/adam) format.
 * [hmkim/workflow](https://github.com/hmkim/workflow/tree/master/nextflow)
 * [holtgrewe/ngs_pipelines](https://github.com/holtgrewe/ngs_pipelines) - Nextflow-based pipelines for typical NGS processing tasks.
 * [IARCbioinfo/bam_realignment-nf](https://github.com/IARCbioinfo/bam_realignment-nf)

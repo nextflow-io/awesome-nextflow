@@ -52,6 +52,7 @@ Featured pipelines
 * [nf-core/lncpipe](https://github.com/nf-core/lncpipe) - Analysis of long non-coding RNAs from RNA-seq datasets.
 * [nf-core/mag](https://github.com/nf-core/mag) - Assembly and binning of metagenomes.
 * [nf-core/methylseq](https://github.com/nf-core/methylseq) - Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel.
+* [nf-core/pangenome](https://github.com/nf-core/pangenome) - Renders a collection of sequences into a pangenome graph.
 * [nf-core/rnaseq](https://github.com/nf-core/rnaseq) - RNA sequencing analysis pipeline using STAR, HISAT2 and Salmon with gene counts and quality control.
 * [nf-core/rnafusion](https://github.com/nf-core/rnafusion) - RNA sequencing analysis pipeline with curated list of tools for detecting and visualizing fusion genes.
 * [nf-core/sarek](https://github.com/nf-core/sarek) - Analysis pipeline to detect germline or somatic variants from WGS / targeted sequencing.

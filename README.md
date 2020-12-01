@@ -58,6 +58,7 @@ Featured pipelines
 * [nf-core/sarek](https://github.com/nf-core/sarek) - Analysis pipeline to detect germline or somatic variants from WGS / targeted sequencing.
 * [nf-core/smrnaseq](https://github.com/nf-core/smrnaseq) - A small-RNA sequencing analysis pipeline.
 * [nf-core/vipr](https://github.com/nf-core/vipr) - Assembly and intrahost / low-frequency variant calling for viral samples.
+* [nf-core/viralrecon](https://github.com/nf-core/viralrecon/) - Assembly and intrahost/low-frequency variant calling for viral samples.
 * [nmdp-bioinformatics/flow](https://github.com/nmdp-bioinformatics/flow) - Consensus assembly and variant calling workflow.
 * [robsyme/nf-repeatmasking](https://github.com/robsyme/nf-repeatmasking) - Workflow for automatic repeat detection, classification and masking.
 * [qbicsoftware/icgc-featurecounts](https://github.com/qbicsoftware/icgc-featurecounts) - Pipeline to run featureCounts on RNAseq BAM files.
@@ -73,7 +74,7 @@ Covid-19 related projects
 * [connor-lab/ncov2019-artic-nf](https://github.com/connor-lab/ncov2019-artic-nf) - A Nextflow pipeline for running the ARTIC network's fieldbioinformatics tools with a focus on ncov2019.
 * [heuermh/sars-cov-2](https://github.com/heuermh/sars-cov-2) - Transform SARS-CoV-2 annotated genomes into sequences and features in [Apache Parquet](http://parquet.apache.org) format.
 * [jnoms/virID](https://github.com/jnoms/virID) - Viral Identification and Discovery - A viral characterization pipeline built in Nextflow.
-* [nf-core/viralrecon/](https://github.com/nf-core/viralrecon/) - Assembly and intrahost/low-frequency variant calling for viral samples.
+* [nf-core/viralrecon](https://github.com/nf-core/viralrecon/) - Assembly and intrahost/low-frequency variant calling for viral samples.
 
 Other pipelines
 ------------------

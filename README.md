@@ -96,7 +96,6 @@ Other pipelines
 * [h3abionet/chipimputation](https://github.com/h3abionet/chipimputation) - Imputation workflow developed as part of the H3 Africa BioNet Hackathon.
 * [h3abionet/h3agwas](https://github.com/h3abionet/h3agwas) - GWAS pipeline developed as part of the H3 Africa BioNet Hackathon.
 * [HadrienG/pipelines](https://github.com/HadrienG/pipelines)
-* [heuermh/bdg-nextflow](https://github.com/heuermh/bdg-nextflow) - Transform BAM files found recursively in a given directory to [ADAM](https://github.com/bigdatagenomics/adam) format.
 * [hmkim/workflow](https://github.com/hmkim/workflow/tree/master/nextflow)
 * [holtgrewe/ngs_pipelines](https://github.com/holtgrewe/ngs_pipelines) - Nextflow-based pipelines for typical NGS processing tasks.
 * [IARCbioinfo/bam_realignment-nf](https://github.com/IARCbioinfo/bam_realignment-nf)

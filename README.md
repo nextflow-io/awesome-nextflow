@@ -70,6 +70,7 @@ Covid-19 related projects
 * [biocorecrg/master_of_pores](https://github.com/biocorecrg/master_of_pores) - Nextflow pipeline for analysis of Nanopore data from direct RNA sequencing (see [also](https://biocorecrg.github.io/covid/)).
 * [BU-ISCIII/SARS-Cov2_analysis](https://github.com/BU-ISCIII/SARS-Cov2_analysis) - SARS-Cov2 bioinformatics analysis.
 * [connor-lab/ncov2019-artic-nf](https://github.com/connor-lab/ncov2019-artic-nf) - A Nextflow pipeline for running the ARTIC network's fieldbioinformatics tools with a focus on ncov2019.
+* [heuermh/sars-cov-2](https://github.com/heuermh/sars-cov-2) - Transform SARS-CoV-2 annotated genomes into sequences and features in [Apache Parquet](http://parquet.apache.org) format.
 * [jnoms/virID](https://github.com/jnoms/virID) - Viral Identification and Discovery - A viral characterization pipeline built in Nextflow.
 * [nf-core/covid19](https://github.com/nf-core/covid19) - A pipeline for the analysis of COVID-19 pandemic data.
 * [nf-core/viralrecon/](https://github.com/nf-core/viralrecon/) - Assembly and intrahost/low-frequency variant calling for viral samples.

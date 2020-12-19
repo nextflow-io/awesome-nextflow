@@ -137,6 +137,7 @@ Tutorials
 * [Pipelines on AWS](https://t-neumann.github.io/pipelines/AWS-pipeline/)
 * [AWS Biotech blueprint](https://aws.amazon.com/quickstart/biotech-blueprint/nextflow/)
 * [Running Nextflow on Google Cloud](https://cloud.google.com/life-sciences/docs/tutorials/nextflow)
+* [Using AWS Batch to process 67,000 genomes with Bactopia](https://read-lab-confederation.github.io/blog/posts/bactopia-aws-and-67000-genomes/)
 
 Pipelines collections
 -------------

@@ -76,6 +76,7 @@ Covid-19 related projects
 * [heuermh/sars-cov-2](https://github.com/heuermh/sars-cov-2) - Transform SARS-CoV-2 annotated genomes into sequences and features in [Apache Parquet](http://parquet.apache.org) format.
 * [jnoms/virID](https://github.com/jnoms/virID) - Viral Identification and Discovery - A viral characterization pipeline built in Nextflow.
 * [nf-core/viralrecon](https://github.com/nf-core/viralrecon/) - Assembly and intrahost/low-frequency variant calling for viral samples.
+* [vtilloy/aspicov](https://gitlab.com/vtilloy/aspicov) - Automated and Standardized Pipeline for Identification of SARS-Cov2 nucleotidic Variants.
 
 Other pipelines
 ------------------

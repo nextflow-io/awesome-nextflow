@@ -9,15 +9,19 @@ Example pipelines
 * [cbcrg/mta-nf](https://github.com/cbcrg/mta-nf) - A method for best alignment of evaluation trees
 * [nextflow-io/rnaseq-nf](https://github.com/nextflow-io/rnaseq-nf) - A basic pipeline for quantification of RNA-seq data using Salmon.
 * [nextflow-io/rnatoy](https://github.com/nextflow-io/rnatoy) - A basic RNA-seq pipeline
+* [nextflow-io/elixir-workshop-21](https://github.com/nextflow-io/elixir-workshop-21) - A basic pipeline with QC and alignment 
 
 Featured pipelines
 -------------------
 * [AndersenLab/cegwas2-nf](https://github.com/AndersenLab/cegwas2-nf) - GWA mapping with C. elegans.
 * [alesssia/YAMP](https://github.com/alesssia/YAMP) - Yet Another Metagenomic Pipeline.
 * [anvlasova/FA-nf](https://github.com/anvlasova/FA-nf) - Functional annotation pipeline for proteins from non-model organisms.
+* [biocorecrg/allele_specific_RNAseq](https://github.com/biocorecrg/allele_specific_RNAseq) - Allele-specific RNA-seq pipeline
 * [bactopia/bactopia](https://github.com/bactopia/bactopia) - A flexible pipeline for complete analysis of bacterial genomes.
+* [biocorecrg/ExOrthist](https://github.com/biocorecrg/ExOrthist) - ExOrthist is a Nextflow based pipeline to infer exon orthology groups at all evolutionary distances.
 * [biocorecrg/indrop](https://github.com/biocorecrg/indrop)- Single cell transcriptome analysis pipeline based on DropEst.
-* [biocorecrg/master_of_pores](https://github.com/biocorecrg/master_of_pores) -  Nextflow pipeline for analysis of direct RNA Nanopore reads.
+* [biocorecrg/master_of_pores](https://github.com/biocorecrg/master_of_pores) -  Nextflow pipeline for analysis of Nanopore reads.
+* [biocorecrg/MOP2](https://github.com/biocorecrg/MOP2) -  DSL2 version of master of pores. Faster and better. 
 * [biocorecrg/transcriptome_assembly](https://github.com/biocorecrg/transcriptome_assembly) - De novo transcriptome assembly and annotations workflow based on trinity / transdecoder. 
 * [biocorecrg/vectorQC](https://github.com/biocorecrg/vectorQC) - A Nextflow pipeline for assembling and annotating vectors. 
 * [brwnj/smoove-nf](https://github.com/brwnj/smoove-nf) - Smoove workflow for Structural Variant calling and Quality Control.
@@ -148,6 +152,7 @@ Pipelines collections
 
 Modules collections
 --------------------
+* [biocorecrg/BioNextflow](https://github.com/biocorecrg/BioNextflow) - Repository to host DSL2 based tool-specific sub-workflows 
 * [nf-core/modules](https://github.com/nf-core/modules/) - Repository to host tool-specific module files for the Nextflow DSL2 community
 * [UMCUGenetics/NextflowModules](https://github.com/UMCUGenetics/NextflowModules) - UMCU Genetics Nextflow modules
 

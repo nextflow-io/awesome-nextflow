@@ -130,6 +130,7 @@ Other pipelines
 
 Tutorials
 ----------
+* [Bioinformatics pipeline example from the bottom up](https://ricomnl.com/blog/bottom-up-bioinformatics-pipeline/)
 * [CRG course](https://github.com/nextflow-io/crg-course-nov16)
 * [Nextflow patterns](https://github.com/nextflow-io/patterns) - A collection of common Nextflow implementation patterns
 * [Nextflow tutorial](https://github.com/nextflow-io/hack17-tutorial)

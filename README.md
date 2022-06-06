@@ -39,6 +39,7 @@ Featured pipelines
 * [guigolab/ipsa-nf](https://github.com/guigolab/ipsa-nf) - Integrative Pipeline for Splicing Analyses.
 * [guigolab/FA-nf](https://github.com/guigolab/FA-nf) - Functional annotation pipeline for proteins from non-model organisms 
 * [h3abionet/h3abionet16S](https://github.com/h3abionet/h3abionet16S) - Integrated pipeline for 16S rDNA diversity analysis.
+* [JaneliaSciComp/nextflow-spark](https://github.com/JaneliaSciComp/nextflow-spark)
 * [IARC/needlestack](https://github.com/IARCbioinfo/needlestack) - Multi-sample somatic variant caller.
 * [IARC/gatk4-GenotypeGVCFs-nf](https://github.com/IARCbioinfo/gatk4-GenotypeGVCFs-nf) - Joint calling of gVCF, following GATK4 Best Practices.
 * [IARC/gatk4-HaplotypeCaller-nf](https://github.com/IARCbioinfo/gatk4-HaplotypeCaller-nf) - GATK4 HaplotypeCaller step, in gVCF mode, first step for subsequent whole cohort Joint Genotyping.

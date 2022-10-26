@@ -117,6 +117,7 @@ Other pipelines
 * [meissnert/nextflow-gtool](https://github.com/meissnert/nextflow-gtool)
 * [NationalGenomicsInfrastructure/icing](https://github.com/NationalGenomicsInfrastructure/icing) - HLA typing from OxfordNanopore reads.
 * [NBISweden/wgs-structvar](https://github.com/NBISweden/wgs-structvar) - Genome Sequenceing Structural Variation Pipelines.
+* [MHH-RCUG/nf_wochenende](https://github.com/MHH-RCUG/nf_wochenende) - A metagenomic (and genomic) alignment and normalization pipeline for long and short reads
 * [nmdp-bioinformatics/flow-blast-hml](https://github.com/nmdp-bioinformatics/flow-blast-hml)
 * [nmdp-bioinformatics/flow-validation](https://github.com/nmdp-bioinformatics/flow-validation)
 * [ODiogoSilva/innuca-nf](https://github.com/ODiogoSilva/innuca-nf) - A nextflow implementation of INNUENDO quality control of reads, de novo assembly and contigs quality assessment.

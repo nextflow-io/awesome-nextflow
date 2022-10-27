@@ -123,7 +123,7 @@ Other pipelines
 * [nmdp-bioinformatics/flow-validation](https://github.com/nmdp-bioinformatics/flow-validation)
 * [ODiogoSilva/innuca-nf](https://github.com/ODiogoSilva/innuca-nf) - A nextflow implementation of INNUENDO quality control of reads, de novo assembly and contigs quality assessment.
 * [pbelmann/sra-download](https://github.com/pbelmann/sra-download)
-* [CDCgov/PHoeNIx](https://github.com/CDCgov/phoenix) - PHoeNIx: A short-read pipeline for healthcare-associated and antimicrobial resistant pathogens.
+* [CDCgov/PHoeNIx](https://github.com/CDCgov/phoenix) - A short-read pipeline for healthcare-associated and antimicrobial resistant pathogens.
 * [PlantandFoodResearch/VariantAnalysis](https://github.com/PlantandFoodResearch/VariantAnalysis) - Bioinformatic variant calling pipeline.
 * [robsyme/nextflow-annotate](https://github.com/robsyme/nextflow-annotate) - Fungal genome annotation workflow
 * [robsyme/nextflow-mapping](https://github.com/robsyme/nextflow-mapping)

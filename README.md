@@ -115,7 +115,7 @@ Other pipelines
 * [jdidion/rna-quick](https://github.com/jdidion/rna-quick) - Rapid analysis of gene and transcript quantification and differential expression.
 * [joshua-d-campbell/nf-GATK_Exome_Preprocess](https://github.com/joshua-d-campbell/nf-GATK_Exome_Preprocess) - GATK best practice guide to preprocess whole exome sequencing (WES) data.
 * [meissnert/nextflow-gtool](https://github.com/meissnert/nextflow-gtool)
-* [mycosnp-nf](https://github.com/CDCgov/mycosnp-nf) - portable workflow for performing whole genome sequencing analysis of fungal organisms
+* [CDCgov/mycosnp-nf](https://github.com/CDCgov/mycosnp-nf) - Portable workflow for performing whole genome sequencing analysis of fungal organisms.
 * [NationalGenomicsInfrastructure/icing](https://github.com/NationalGenomicsInfrastructure/icing) - HLA typing from OxfordNanopore reads.
 * [NBISweden/wgs-structvar](https://github.com/NBISweden/wgs-structvar) - Genome Sequenceing Structural Variation Pipelines.
 * [MHH-RCUG/nf_wochenende](https://github.com/MHH-RCUG/nf_wochenende) - A metagenomic (and genomic) alignment and normalization pipeline for long and short reads

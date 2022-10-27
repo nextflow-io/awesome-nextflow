@@ -134,8 +134,10 @@ Tutorials
 ----------
 * [Bioinformatics pipeline example from the bottom up](https://ricomnl.com/blog/bottom-up-bioinformatics-pipeline/)
 * [CRG course](https://github.com/nextflow-io/crg-course-nov16)
+* [Introduction to Bioinformatics workflows with Nextflow and nf-core](https://carpentries-incubator.github.io/workflows-nextflow/)
 * [Nextflow patterns](https://github.com/nextflow-io/patterns) - A collection of common Nextflow implementation patterns
 * [Nextflow tutorial](https://github.com/nextflow-io/hack17-tutorial)
+* [Nextflow training by Seqera Labs](https://training.seqera.io)
 * [Nextflow demos](https://github.com/stevekm/nextflow-demos) - Example Nextflow pipelines and programming techniques
  (by Stephen Kelly)
 * [H3ABioNet course](https://github.com/shaze/nextflow-course)
@@ -145,6 +147,7 @@ Tutorials
 * [Nextflow on AWS Batch](https://docs.opendata.aws/genomics-workflows/orchestration/nextflow/nextflow-overview/)
 * [Pipelines on AWS](https://t-neumann.github.io/pipelines/AWS-pipeline/)
 * [AWS Biotech blueprint](https://aws.amazon.com/quickstart/biotech-blueprint/nextflow/)
+* [Reproducible, scalable, and shareable analysis workflows with Nextflow](https://sateeshperi.github.io/nextflow_varcal/nextflow/)
 * [Running Nextflow on Google Cloud](https://cloud.google.com/life-sciences/docs/tutorials/nextflow)
 * [Using AWS Batch to process 67,000 genomes with Bactopia](https://read-lab-confederation.github.io/blog/posts/bactopia-aws-and-67000-genomes/)
 

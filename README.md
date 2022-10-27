@@ -123,12 +123,12 @@ Other pipelines
 * [nmdp-bioinformatics/flow-validation](https://github.com/nmdp-bioinformatics/flow-validation)
 * [ODiogoSilva/innuca-nf](https://github.com/ODiogoSilva/innuca-nf) - A nextflow implementation of INNUENDO quality control of reads, de novo assembly and contigs quality assessment.
 * [pbelmann/sra-download](https://github.com/pbelmann/sra-download)
-* [PHoeNIx](https://github.com/CDCgov/phoenix) - PHoeNIx: A short-read pipeline for healthcare-associated and antimicrobial resistant pathogens.
+* [CDCgov/PHoeNIx](https://github.com/CDCgov/phoenix) - PHoeNIx: A short-read pipeline for healthcare-associated and antimicrobial resistant pathogens.
 * [PlantandFoodResearch/VariantAnalysis](https://github.com/PlantandFoodResearch/VariantAnalysis) - Bioinformatic variant calling pipeline.
 * [robsyme/nextflow-annotate](https://github.com/robsyme/nextflow-annotate) - Fungal genome annotation workflow
 * [robsyme/nextflow-mapping](https://github.com/robsyme/nextflow-mapping)
 * [robsyme/workflows-proteogenomics](https://github.com/robsyme/workflows-proteogenomics) - Versioned, shareable and replicable workflows for proteogenomics.
-* [SC2CLIA](https://github.com/CDCgov/SC2CLIA) - pipeline for Clinical Laboratories Improvements Amendments (CLIA) compliant variant calling and spike protein substitution prediction with additional tools for quality control
+* [CDCgov/SC2CLIA](https://github.com/CDCgov/SC2CLIA) - Pipeline for Clinical Laboratories Improvements Amendments (CLIA) compliant variant calling and spike protein substitution prediction with additional tools for quality control
 * [skner/iasi-pipe](https://github.com/skner/iasi-pipe)
 * [snewhouse/ngs_nextflow](https://github.com/snewhouse/ngs_nextflow) - Alignment, Variant Calling, GATK Best Practices.
 * [wittelab/orchid](https://github.com/Wittelab/orchid) - Novel management, annotation, and machine learning framework for analyzing cancer mutations.

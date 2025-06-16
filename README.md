@@ -135,12 +135,12 @@ Other pipelines
 
 Tutorials
 ----------
+* [Nextflow training portal by Seqera](https://training.seqera.io)
 * [Bioinformatics pipeline example from the bottom up](https://ricomnl.com/blog/bottom-up-bioinformatics-pipeline/)
 * [CRG course](https://github.com/nextflow-io/crg-course-nov16)
 * [Introduction to Bioinformatics workflows with Nextflow and nf-core](https://carpentries-incubator.github.io/workflows-nextflow/)
 * [Nextflow patterns](https://github.com/nextflow-io/patterns) - A collection of common Nextflow implementation patterns
 * [Nextflow tutorial](https://github.com/nextflow-io/hack17-tutorial)
-* [Nextflow training by Seqera Labs](https://training.seqera.io)
 * [Nextflow demos](https://github.com/stevekm/nextflow-demos) - Example Nextflow pipelines and programming techniques
  (by Stephen Kelly)
 * [H3ABioNet course](https://github.com/shaze/nextflow-course)
@@ -171,6 +171,7 @@ Presentations
 
 Video
 -----
+* [Hello Nextflow training series](https://www.youtube.com/playlist?list=PLPZ8WHdZGxmXiHf8B26oB_fTfoKQdhlik)
 * [Nextflow: Scalable, Shareable & Reproducible workflows](https://www.youtube.com/watch?v=lqm-VV5dOgk) - Awesome intro by Rad Suchecki
 * [Nextflow Youtube channel](https://www.youtube.com/channel/UCB-5LCKLdTKVn2F4V4KlPbQ)
 * [Using NextFlow pipelines at Babraham](https://www.youtube.com/watch?v=oAjZ0xmewp8)

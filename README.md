@@ -152,6 +152,9 @@ Tutorials
 * [Reproducible, scalable, and shareable analysis workflows with Nextflow](https://sateeshperi.github.io/nextflow_varcal/nextflow/)
 * [Running Nextflow on Google Cloud](https://cloud.google.com/life-sciences/docs/tutorials/nextflow)
 * [Using AWS Batch to process 67,000 genomes with Bactopia](https://read-lab-confederation.github.io/blog/posts/bactopia-aws-and-67000-genomes/)
+* [Nextflow Beginners Workshop](https://github.com/vagkaratzas/nextflow-beginners-workshop)
+* [nf-core Pre-Hackathon Training 2025](https://github.com/Zemzemfiras1/nf-core-pre-hackathon_training2025)
+* [nextflow-training - by Aubin THOMAS IGH Montpellier](https://gitlab.in2p3.fr/ighbioinfo/nextflow-training)
 
 Pipelines collections
 -------------

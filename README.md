@@ -135,7 +135,6 @@ Other pipelines
 
 Tutorials
 ----------
-* 
 * [Nextflow training portal by Seqera](https://training.seqera.io)
 * [Bioinformatics pipeline example from the bottom up](https://ricomnl.com/blog/bottom-up-bioinformatics-pipeline/)
 * [CRG course](https://github.com/nextflow-io/crg-course-nov16)
